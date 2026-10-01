@@ -1,0 +1,6805 @@
+[
+ {
+  "word": "abound",
+  "group": 1,
+  "senses": [
+   "be present in large quantities"
+  ]
+ },
+ {
+  "word": "amorphous",
+  "group": 1,
+  "senses": [
+   "lacking structure; unclear"
+  ]
+ },
+ {
+  "word": "austere",
+  "group": 1,
+  "senses": [
+   "(of a person) strict and stern in character",
+   "(of living conditions) lacking luxury; extremely harsh"
+  ]
+ },
+ {
+  "word": "belie",
+  "group": 1,
+  "senses": [
+   "give a false impression of; mask"
+  ]
+ },
+ {
+  "word": "capricious",
+  "group": 1,
+  "senses": [
+   "having varying moods; fickle"
+  ]
+ },
+ {
+  "word": "cerebral",
+  "group": 1,
+  "senses": [
+   "related to the brain",
+   "intellectual; focused on learning rather than emotion"
+  ]
+ },
+ {
+  "word": "congenial",
+  "group": 1,
+  "senses": [
+   "(of a person) likable and friendly, often due to shared interests",
+   "(of a thing) enjoyable because it aligns with one's tendencies"
+  ]
+ },
+ {
+  "word": "conspicuous",
+  "group": 1,
+  "senses": [
+   "easily noticed; obvious"
+  ]
+ },
+ {
+  "word": "cursory",
+  "group": 1,
+  "senses": [
+   "lacking effort; without care"
+  ]
+ },
+ {
+  "word": "daunting",
+  "group": 1,
+  "senses": [
+   "scary or frightening; (of a task) seeming impossible"
+  ]
+ },
+ {
+  "word": "deify",
+  "group": 1,
+  "senses": [
+   "look up to someone or something as a god"
+  ]
+ },
+ {
+  "word": "didactic",
+  "group": 1,
+  "senses": [
+   "meant for teaching; educational, sometimes in a condescending manner"
+  ]
+ },
+ {
+  "word": "disseminate",
+  "group": 1,
+  "senses": [
+   "distribute or circulate broadly"
+  ]
+ },
+ {
+  "word": "feasible",
+  "group": 1,
+  "senses": [
+   "likely to be achieved; practical"
+  ]
+ },
+ {
+  "word": "flout",
+  "group": 1,
+  "senses": [
+   "break a rule without guilt"
+  ]
+ },
+ {
+  "word": "homogeneous",
+  "group": 1,
+  "senses": [
+   "composed of similar parts; alike"
+  ]
+ },
+ {
+  "word": "humdrum",
+  "group": 1,
+  "senses": [
+   "boring; unlikely to excite"
+  ]
+ },
+ {
+  "word": "insipid",
+  "group": 1,
+  "senses": [
+   "without flavor; lacking energy"
+  ]
+ },
+ {
+  "word": "loquacious",
+  "group": 1,
+  "senses": [
+   "likely to talk a lot; wordy"
+  ]
+ },
+ {
+  "word": "misanthropic",
+  "group": 1,
+  "senses": [
+   "having a distaste for humans and society"
+  ]
+ },
+ {
+  "word": "misnomer",
+  "group": 1,
+  "senses": [
+   "a misleading or inaccurate name"
+  ]
+ },
+ {
+  "word": "negligent",
+  "group": 1,
+  "senses": [
+   "lacking care or attention"
+  ]
+ },
+ {
+  "word": "obsequious",
+  "group": 1,
+  "senses": [
+   "excessively submissive to authority"
+  ]
+ },
+ {
+  "word": "placate",
+  "group": 1,
+  "senses": [
+   "decrease someone's anger or other negative emotion"
+  ]
+ },
+ {
+  "word": "proclivity",
+  "group": 1,
+  "senses": [
+   "a fondness or liking for something"
+  ]
+ },
+ {
+  "word": "puerile",
+  "group": 1,
+  "senses": [
+   "immature and childish"
+  ]
+ },
+ {
+  "word": "quixotic",
+  "group": 1,
+  "senses": [
+   "excessively visionary; unfeasible"
+  ]
+ },
+ {
+  "word": "spendthrift",
+  "group": 1,
+  "senses": [
+   "someone who spends money recklessly"
+  ]
+ },
+ {
+  "word": "taciturn",
+  "group": 1,
+  "senses": [
+   "of few words; speaking little"
+  ]
+ },
+ {
+  "word": "wary",
+  "group": 1,
+  "senses": [
+   "exercising caution; careful"
+  ]
+ },
+ {
+  "word": "adulterate",
+  "group": 2,
+  "senses": [
+   "damage the quality of; corrupt"
+  ]
+ },
+ {
+  "word": "advocate",
+  "group": 2,
+  "senses": [
+   "support; be in favor of",
+   "someone who supports a cause, organization, or person"
+  ]
+ },
+ {
+  "word": "aggrandize",
+  "group": 2,
+  "senses": [
+   "enhance one's power or standing"
+  ]
+ },
+ {
+  "word": "alacrity",
+  "group": 2,
+  "senses": [
+   "eagerness to do something"
+  ]
+ },
+ {
+  "word": "ambivalent",
+  "group": 2,
+  "senses": [
+   "having conflicting emotions; unsure"
+  ]
+ },
+ {
+  "word": "ameliorate",
+  "group": 2,
+  "senses": [
+   "improve a bad feeling or bad situation"
+  ]
+ },
+ {
+  "word": "amenable",
+  "group": 2,
+  "senses": [
+   "(of a person) receptive to change; open",
+   "(of a thing) responsive to"
+  ]
+ },
+ {
+  "word": "anachronistic",
+  "group": 2,
+  "senses": [
+   "of the wrong time or era"
+  ]
+ },
+ {
+  "word": "audacious",
+  "group": 2,
+  "senses": [
+   "bold; unafraid of risks",
+   "rude; exhibiting disrespect"
+  ]
+ },
+ {
+  "word": "avaricious",
+  "group": 2,
+  "senses": [
+   "greedy; always wanting more"
+  ]
+ },
+ {
+  "word": "banal",
+  "group": 2,
+  "senses": [
+   "unoriginal and dull; lacking creativity"
+  ]
+ },
+ {
+  "word": "benign",
+  "group": 2,
+  "senses": [
+   "harmless; having little effect",
+   "(of a person's character) kind hearted; nice"
+  ]
+ },
+ {
+  "word": "brazen",
+  "group": 2,
+  "senses": [
+   "shameless and excessively forward"
+  ]
+ },
+ {
+  "word": "calumny",
+  "group": 2,
+  "senses": [
+   "slander and defamation"
+  ]
+ },
+ {
+  "word": "candid",
+  "group": 2,
+  "senses": [
+   "honest; without deception"
+  ]
+ },
+ {
+  "word": "castigate",
+  "group": 2,
+  "senses": [
+   "scold someone harshly"
+  ]
+ },
+ {
+  "word": "caustic",
+  "group": 2,
+  "senses": [
+   "(of speech) hostile and bitter",
+   "(of a chemical) corrosive; acidic"
+  ]
+ },
+ {
+  "word": "construe",
+  "group": 2,
+  "senses": [
+   "understand something subjectively"
+  ]
+ },
+ {
+  "word": "contrite",
+  "group": 2,
+  "senses": [
+   "feeling regretful or guilty"
+  ]
+ },
+ {
+  "word": "convoluted",
+  "group": 2,
+  "senses": [
+   "difficult to understand or follow."
+  ]
+ },
+ {
+  "word": "covet",
+  "group": 2,
+  "senses": [
+   "strongly desire; yearn for"
+  ]
+ },
+ {
+  "word": "craven",
+  "group": 2,
+  "senses": [
+   "lacking bravery; weak-kneed"
+  ]
+ },
+ {
+  "word": "decorum",
+  "group": 2,
+  "senses": [
+   "politeness and proper behavior"
+  ]
+ },
+ {
+  "word": "deft",
+  "group": 2,
+  "senses": [
+   "highly proficient; skilled"
+  ]
+ },
+ {
+  "word": "demur",
+  "group": 2,
+  "senses": [
+   "hesitate or object; express doubt",
+   "hesitation"
+  ]
+ },
+ {
+  "word": "derivative",
+  "group": 2,
+  "senses": [
+   "based on someone else's work (often used in a negative sense)"
+  ]
+ },
+ {
+  "word": "desiccate",
+  "group": 2,
+  "senses": [
+   "dry out; remove all moisture"
+  ]
+ },
+ {
+  "word": "diatribe",
+  "group": 2,
+  "senses": [
+   "an angry rant; verbal abuse"
+  ]
+ },
+ {
+  "word": "incredulous",
+  "group": 2,
+  "senses": [
+   "doubtful and disbelieving"
+  ]
+ },
+ {
+  "word": "ingenuous",
+  "group": 2,
+  "senses": [
+   "naive and lacking experience"
+  ]
+ },
+ {
+  "word": "abate",
+  "group": 3,
+  "senses": [
+   "decrease in intensity; lessen"
+  ]
+ },
+ {
+  "word": "abjure",
+  "group": 3,
+  "senses": [
+   "strongly reject (an idea); forgo"
+  ]
+ },
+ {
+  "word": "anomalous",
+  "group": 3,
+  "senses": [
+   "differing from what is normal; atypical"
+  ]
+ },
+ {
+  "word": "antipathy",
+  "group": 3,
+  "senses": [
+   "profound hostility or hatred"
+  ]
+ },
+ {
+  "word": "arcane",
+  "group": 3,
+  "senses": [
+   "comprehended by very few people; secret"
+  ]
+ },
+ {
+  "word": "arduous",
+  "group": 3,
+  "senses": [
+   "very challenging; needing great effort"
+  ]
+ },
+ {
+  "word": "artless",
+  "group": 3,
+  "senses": [
+   "naive; inexperienced",
+   "plain and simple",
+   "lacking skill"
+  ]
+ },
+ {
+  "word": "ascetic",
+  "group": 3,
+  "senses": [
+   "(of a lifestyle) very strict and lacking luxury",
+   "someone who adopts an ascetic lifestyle"
+  ]
+ },
+ {
+  "word": "assuage",
+  "group": 3,
+  "senses": [
+   "decrease a negative feeling",
+   "fulfill a certain desire"
+  ]
+ },
+ {
+  "word": "betray",
+  "group": 3,
+  "senses": [
+   "unknowingly disclose or reveal"
+  ]
+ },
+ {
+  "word": "bucolic",
+  "group": 3,
+  "senses": [
+   "associated with tranquil rural life"
+  ]
+ },
+ {
+  "word": "burgeon",
+  "group": 3,
+  "senses": [
+   "quickly increase or grow; skyrocket"
+  ]
+ },
+ {
+  "word": "cacophonous",
+  "group": 3,
+  "senses": [
+   "extremely noisy; grating"
+  ]
+ },
+ {
+  "word": "canonize",
+  "group": 3,
+  "senses": [
+   "treat like a god; deeply venerate"
+  ]
+ },
+ {
+  "word": "censure",
+  "group": 3,
+  "senses": [
+   "strongly criticize or disapprove"
+  ]
+ },
+ {
+  "word": "chicanery",
+  "group": 3,
+  "senses": [
+   "using deception to attain a certain goal"
+  ]
+ },
+ {
+  "word": "coalesce",
+  "group": 3,
+  "senses": [
+   "bring elements together; unite"
+  ]
+ },
+ {
+  "word": "cogent",
+  "group": 3,
+  "senses": [
+   "persuasive and clear; compelling"
+  ]
+ },
+ {
+  "word": "compelling",
+  "group": 3,
+  "senses": [
+   "persuasive and clear",
+   "attracting interest; fascinating"
+  ]
+ },
+ {
+  "word": "contend",
+  "group": 3,
+  "senses": [
+   "argue a certain point of view; assert",
+   "compete",
+   "struggle or attempt to overcome something"
+  ]
+ },
+ {
+  "word": "copious",
+  "group": 3,
+  "senses": [
+   "existing in great supply; abundant"
+  ]
+ },
+ {
+  "word": "cosmopolitan",
+  "group": 3,
+  "senses": [
+   "(of a city) highly diverse",
+   "(of a person) sophisticated and urbane"
+  ]
+ },
+ {
+  "word": "deference",
+  "group": 3,
+  "senses": [
+   "high regard and respect; esteem"
+  ]
+ },
+ {
+  "word": "desultory",
+  "group": 3,
+  "senses": [
+   "unplanned; without enthusiasm"
+  ]
+ },
+ {
+  "word": "diffident",
+  "group": 3,
+  "senses": [
+   "reserved or shy; without confidence"
+  ]
+ },
+ {
+  "word": "dilatory",
+  "group": 3,
+  "senses": [
+   "slow and unhurried; meant to stall"
+  ]
+ },
+ {
+  "word": "equivocate",
+  "group": 3,
+  "senses": [
+   "speak evasively; avoid taking a stance"
+  ]
+ },
+ {
+  "word": "polarize",
+  "group": 3,
+  "senses": [
+   "separate into two opposing groups"
+  ]
+ },
+ {
+  "word": "prodigal",
+  "group": 3,
+  "senses": [
+   "carelessly wasteful; extravagant",
+   "a person who is excessively wasteful"
+  ]
+ },
+ {
+  "word": "verbose",
+  "group": 3,
+  "senses": [
+   "excessively talkative; wordy"
+  ]
+ },
+ {
+  "word": "abstain",
+  "group": 4,
+  "senses": [
+   "avoid taking part in something"
+  ]
+ },
+ {
+  "word": "approbation",
+  "group": 4,
+  "senses": [
+   "appreciation toward someone"
+  ]
+ },
+ {
+  "word": "cherish",
+  "group": 4,
+  "senses": [
+   "greatly love or protect something"
+  ]
+ },
+ {
+  "word": "corroborate",
+  "group": 4,
+  "senses": [
+   "lend support to; bolster"
+  ]
+ },
+ {
+  "word": "disparate",
+  "group": 4,
+  "senses": [
+   "different or contrasting"
+  ]
+ },
+ {
+  "word": "emulate",
+  "group": 4,
+  "senses": [
+   "imitate someone or something"
+  ]
+ },
+ {
+  "word": "enervate",
+  "group": 4,
+  "senses": [
+   "sap the energy out of someone; fatigue"
+  ]
+ },
+ {
+  "word": "ephemeral",
+  "group": 4,
+  "senses": [
+   "extremely short lasting"
+  ]
+ },
+ {
+  "word": "fervid",
+  "group": 4,
+  "senses": [
+   "excessively energetic or eager"
+  ]
+ },
+ {
+  "word": "garrulous",
+  "group": 4,
+  "senses": [
+   "tending to talk too much; wordy"
+  ]
+ },
+ {
+  "word": "incendiary",
+  "group": 4,
+  "senses": [
+   "provocative; causing conflict"
+  ]
+ },
+ {
+  "word": "inimical",
+  "group": 4,
+  "senses": [
+   "damaging; hostile in manner or tone"
+  ]
+ },
+ {
+  "word": "intimate",
+  "group": 4,
+  "senses": [
+   "subtly suggest or imply"
+  ]
+ },
+ {
+  "word": "invigorate",
+  "group": 4,
+  "senses": [
+   "provide energy or vitality to"
+  ]
+ },
+ {
+  "word": "mitigate",
+  "group": 4,
+  "senses": [
+   "diminish negative feelings or situation"
+  ]
+ },
+ {
+  "word": "obsolete",
+  "group": 4,
+  "senses": [
+   "no longer useful; outmoded"
+  ]
+ },
+ {
+  "word": "opaque",
+  "group": 4,
+  "senses": [
+   "unclear; hard to comprehend",
+   "not able to be seen through"
+  ]
+ },
+ {
+  "word": "paradigmatic",
+  "group": 4,
+  "senses": [
+   "representing the standard example"
+  ]
+ },
+ {
+  "word": "pedantic",
+  "group": 4,
+  "senses": [
+   "overly concerned with (minor) details"
+  ]
+ },
+ {
+  "word": "placid",
+  "group": 4,
+  "senses": [
+   "calm; free from activity or irritation"
+  ]
+ },
+ {
+  "word": "polemical",
+  "group": 4,
+  "senses": [
+   "giving a strong, controversial opinion"
+  ]
+ },
+ {
+  "word": "precipitate",
+  "group": 4,
+  "senses": [
+   "cause to happen",
+   "done quickly or suddenly"
+  ]
+ },
+ {
+  "word": "profundity",
+  "group": 4,
+  "senses": [
+   "great wisdom or intelligence"
+  ]
+ },
+ {
+  "word": "prophetic",
+  "group": 4,
+  "senses": [
+   "able to correctly predict the future"
+  ]
+ },
+ {
+  "word": "prudent",
+  "group": 4,
+  "senses": [
+   "wise in decision-making"
+  ]
+ },
+ {
+  "word": "punctilious",
+  "group": 4,
+  "senses": [
+   "highly concerned with details or manners"
+  ]
+ },
+ {
+  "word": "recondite",
+  "group": 4,
+  "senses": [
+   "obscure and difficult to understand"
+  ]
+ },
+ {
+  "word": "scrupulous",
+  "group": 4,
+  "senses": [
+   "careful with details",
+   "possessing moral integrity"
+  ]
+ },
+ {
+  "word": "tranquil",
+  "group": 4,
+  "senses": [
+   "peaceful; free from activity"
+  ]
+ },
+ {
+  "word": "vacillate",
+  "group": 4,
+  "senses": [
+   "go back and forth with one's view"
+  ]
+ },
+ {
+  "word": "aloof",
+  "group": 5,
+  "senses": [
+   "not warm or friendly; impersonal"
+  ]
+ },
+ {
+  "word": "clangor",
+  "group": 5,
+  "senses": [
+   "a disturbingly loud noise"
+  ]
+ },
+ {
+  "word": "conventional",
+  "group": 5,
+  "senses": [
+   "adhering to established practices or accepted standards"
+  ]
+ },
+ {
+  "word": "debunk",
+  "group": 5,
+  "senses": [
+   "prove a belief or idea false"
+  ]
+ },
+ {
+  "word": "diminutive",
+  "group": 5,
+  "senses": [
+   "exceptionally small in size or stature"
+  ]
+ },
+ {
+  "word": "discernible",
+  "group": 5,
+  "senses": [
+   "able to be recognized or understood"
+  ]
+ },
+ {
+  "word": "enigmatic",
+  "group": 5,
+  "senses": [
+   "hard to understand; mysterious"
+  ]
+ },
+ {
+  "word": "estranged",
+  "group": 5,
+  "senses": [
+   "emotionally distanced from someone"
+  ]
+ },
+ {
+  "word": "extravagant",
+  "group": 5,
+  "senses": [
+   "excessive, especially in terms of cost"
+  ]
+ },
+ {
+  "word": "fanciful",
+  "group": 5,
+  "senses": [
+   "highly imaginative; unrealistic"
+  ]
+ },
+ {
+  "word": "frivolous",
+  "group": 5,
+  "senses": [
+   "lacking in seriousness or importance; silly",
+   "(of a person) not taking things seriously"
+  ]
+ },
+ {
+  "word": "heterogeneous",
+  "group": 5,
+  "senses": [
+   "composed of varying, diverse elements"
+  ]
+ },
+ {
+  "word": "imperious",
+  "group": 5,
+  "senses": [
+   "having an arrogant or domineering manner"
+  ]
+ },
+ {
+  "word": "impertinent",
+  "group": 5,
+  "senses": [
+   "disrespectful or inappropriate",
+   "irrelevant or unrelated to something"
+  ]
+ },
+ {
+  "word": "invasive",
+  "group": 5,
+  "senses": [
+   "infringing on others privacy",
+   "spreading rapidly and causing harm"
+  ]
+ },
+ {
+  "word": "irresolute",
+  "group": 5,
+  "senses": [
+   "uncertain or lacking determination"
+  ]
+ },
+ {
+  "word": "laudable",
+  "group": 5,
+  "senses": [
+   "worthy of admiration or praise"
+  ]
+ },
+ {
+  "word": "lax",
+  "group": 5,
+  "senses": [
+   "not diligent or careful; casual"
+  ]
+ },
+ {
+  "word": "marginalize",
+  "group": 5,
+  "senses": [
+   "treat someone or something as insignificant"
+  ]
+ },
+ {
+  "word": "panache",
+  "group": 5,
+  "senses": [
+   "a stylish and confident manner"
+  ]
+ },
+ {
+  "word": "plodding",
+  "group": 5,
+  "senses": [
+   "moving slowly or laboriously"
+  ]
+ },
+ {
+  "word": "prosaic",
+  "group": 5,
+  "senses": [
+   "straightforward; unoriginal; unimaginative"
+  ]
+ },
+ {
+  "word": "remedial",
+  "group": 5,
+  "senses": [
+   "serving to correct or cure something"
+  ]
+ },
+ {
+  "word": "restive",
+  "group": 5,
+  "senses": [
+   "demonstrating difficulty in staying still"
+  ]
+ },
+ {
+  "word": "sporadic",
+  "group": 5,
+  "senses": [
+   "happening occasionally and irregularly"
+  ]
+ },
+ {
+  "word": "stigmatize",
+  "group": 5,
+  "senses": [
+   "label or mark as disgraceful"
+  ]
+ },
+ {
+  "word": "undermine",
+  "group": 5,
+  "senses": [
+   "weaken or sabotage, often subtly"
+  ]
+ },
+ {
+  "word": "utterly",
+  "group": 5,
+  "senses": [
+   "weaken or sabotage, often subtly"
+  ]
+ },
+ {
+  "word": "weary",
+  "group": 5,
+  "senses": [
+   "feeling tired or exhausted"
+  ]
+ },
+ {
+  "word": "zealous",
+  "group": 5,
+  "senses": [
+   "intensely passionate"
+  ]
+ },
+ {
+  "word": "admonish",
+  "group": 6,
+  "senses": [
+   "scold someone seriously",
+   "give someone urgent advice"
+  ]
+ },
+ {
+  "word": "aesthetic",
+  "group": 6,
+  "senses": [
+   "pertaining to beauty or the appreciation thereof"
+  ]
+ },
+ {
+  "word": "affectation",
+  "group": 6,
+  "senses": [
+   "a pretense or show meant to impress others"
+  ]
+ },
+ {
+  "word": "alleviate",
+  "group": 6,
+  "senses": [
+   "lessen the intensity or severity of something negative"
+  ]
+ },
+ {
+  "word": "analogous",
+  "group": 6,
+  "senses": [
+   "comparable or similar to"
+  ]
+ },
+ {
+  "word": "bolster",
+  "group": 6,
+  "senses": [
+   "lend support or boost"
+  ]
+ },
+ {
+  "word": "chauvinistic",
+  "group": 6,
+  "senses": [
+   "excessively patriotic or biased in favor of a group or cause"
+  ]
+ },
+ {
+  "word": "connoisseur",
+  "group": 6,
+  "senses": [
+   "a discerning expert in matters of taste"
+  ]
+ },
+ {
+  "word": "dissemble",
+  "group": 6,
+  "senses": [
+   "hide or misrepresent one's true feelings or beliefs"
+  ]
+ },
+ {
+  "word": "dogged",
+  "group": 6,
+  "senses": [
+   "demonstrating tenacity and an unwillingness to give up"
+  ]
+ },
+ {
+  "word": "dupe",
+  "group": 6,
+  "senses": [
+   "trick or fool someone"
+  ]
+ },
+ {
+  "word": "empirical",
+  "group": 6,
+  "senses": [
+   "based on observation or experience rather than conjecture"
+  ]
+ },
+ {
+  "word": "engender",
+  "group": 6,
+  "senses": [
+   "produce or stimulate the development of something"
+  ]
+ },
+ {
+  "word": "entitled",
+  "group": 6,
+  "senses": [
+   "assuming oneself to be deserving of special rights or privileges"
+  ]
+ },
+ {
+  "word": "pertinacious",
+  "group": 6,
+  "senses": [
+   "stubbornly holding onto a belief or course of action"
+  ]
+ },
+ {
+  "word": "presumptuous",
+  "group": 6,
+  "senses": [
+   "overstepping boundaries, often in an overconfident way"
+  ]
+ },
+ {
+  "word": "probity",
+  "group": 6,
+  "senses": [
+   "the characteristic of having strong ethical standards"
+  ]
+ },
+ {
+  "word": "proliferate",
+  "group": 6,
+  "senses": [
+   "rapidly increase or multiply in number"
+  ]
+ },
+ {
+  "word": "specious",
+  "group": 6,
+  "senses": [
+   "seemingly reasonable but actually wrong"
+  ]
+ },
+ {
+  "word": "spurious",
+  "group": 6,
+  "senses": [
+   "not genuine; bogus"
+  ]
+ },
+ {
+  "word": "subjective",
+  "group": 6,
+  "senses": [
+   "pertaining to personal feelings rather than objective reality"
+  ]
+ },
+ {
+  "word": "subvert",
+  "group": 6,
+  "senses": [
+   "undermine or weaken, typically an authority of some sort"
+  ]
+ },
+ {
+  "word": "timorous",
+  "group": 6,
+  "senses": [
+   "displaying nervousness; lacking confidence"
+  ]
+ },
+ {
+  "word": "tortuous",
+  "group": 6,
+  "senses": [
+   "marked by numerous twists or turns",
+   "overly complicated and long"
+  ]
+ },
+ {
+  "word": "tractable",
+  "group": 6,
+  "senses": [
+   "easily managed or controlled",
+   "(of a situation) easy to solve or handle"
+  ]
+ },
+ {
+  "word": "transient",
+  "group": 6,
+  "senses": [
+   "not lasting, enduring, or permanent; transitory"
+  ]
+ },
+ {
+  "word": "ubiquitous",
+  "group": 6,
+  "senses": [
+   "being everywhere at once"
+  ]
+ },
+ {
+  "word": "underscore",
+  "group": 6,
+  "senses": [
+   "emphasize or show the importance of something"
+  ]
+ },
+ {
+  "word": "venal",
+  "group": 6,
+  "senses": [
+   "open to bribery or corruption"
+  ]
+ },
+ {
+  "word": "venerate",
+  "group": 6,
+  "senses": [
+   "regard with deep respect or reverence"
+  ]
+ },
+ {
+  "word": "appease",
+  "group": 7,
+  "senses": [
+   "calm someone down",
+   "satisfy a demand or desire"
+  ]
+ },
+ {
+  "word": "arbitrary",
+  "group": 7,
+  "senses": [
+   "determined by chance, not reason"
+  ]
+ },
+ {
+  "word": "archaic",
+  "group": 7,
+  "senses": [
+   "ancient or outmoded; out of date"
+  ]
+ },
+ {
+  "word": "clamorous",
+  "group": 7,
+  "senses": [
+   "characterized by extremely loud noise"
+  ]
+ },
+ {
+  "word": "dearth",
+  "group": 7,
+  "senses": [
+   "lack of something in a particular area"
+  ]
+ },
+ {
+  "word": "explicable",
+  "group": 7,
+  "senses": [
+   "able to be explained or understood"
+  ]
+ },
+ {
+  "word": "hyperbole",
+  "group": 7,
+  "senses": [
+   "exaggeration to make a point or be funny"
+  ]
+ },
+ {
+  "word": "immutable",
+  "group": 7,
+  "senses": [
+   "not capable of being changed"
+  ]
+ },
+ {
+  "word": "indefatigable",
+  "group": 7,
+  "senses": [
+   "highly determined; resistent to tiring out"
+  ]
+ },
+ {
+  "word": "indolent",
+  "group": 7,
+  "senses": [
+   "habitually lazy; averse to activity"
+  ]
+ },
+ {
+  "word": "insular",
+  "group": 7,
+  "senses": [
+   "limited in outlook or experience; narrow"
+  ]
+ },
+ {
+  "word": "intransigent",
+  "group": 7,
+  "senses": [
+   "refusing to compromise; stubborn"
+  ]
+ },
+ {
+  "word": "intrepid",
+  "group": 7,
+  "senses": [
+   "resolutely fearless; brave"
+  ]
+ },
+ {
+  "word": "irreverent",
+  "group": 7,
+  "senses": [
+   "lacking proper respect or seriousness"
+  ]
+ },
+ {
+  "word": "loathe",
+  "group": 7,
+  "senses": [
+   "dislike greatly, often with disgust"
+  ]
+ },
+ {
+  "word": "malign",
+  "group": 7,
+  "senses": [
+   "evil and harmful",
+   "speak about someone in a bitter and critical manner"
+  ]
+ },
+ {
+  "word": "malleable",
+  "group": 7,
+  "senses": [
+   "changeable or flexible; capable of being influenced"
+  ]
+ },
+ {
+  "word": "neophyte",
+  "group": 7,
+  "senses": [
+   "an amateur or novice in a field"
+  ]
+ },
+ {
+  "word": "plastic",
+  "group": 7,
+  "senses": [
+   "capable of being molded; flexible",
+   "artificial; unnatural"
+  ]
+ },
+ {
+  "word": "platitude",
+  "group": 7,
+  "senses": [
+   "a trite or banal remark or statement"
+  ]
+ },
+ {
+  "word": "prescient",
+  "group": 7,
+  "senses": [
+   "possessing foresight of upcoming events"
+  ]
+ },
+ {
+  "word": "pristine",
+  "group": 7,
+  "senses": [
+   "in its original, unspoiled state"
+  ]
+ },
+ {
+  "word": "reproach",
+  "group": 7,
+  "senses": [
+   "express criticism towards; reprimand"
+  ]
+ },
+ {
+  "word": "robust",
+  "group": 7,
+  "senses": [
+   "capable of surviving despite adverse conditions",
+   "(of an object, person, or organization) strong and powerful"
+  ]
+ },
+ {
+  "word": "salubrious",
+  "group": 7,
+  "senses": [
+   "promoting health or well-being",
+   "(of a place or accommodation) pleasant"
+  ]
+ },
+ {
+  "word": "sanction",
+  "group": 7,
+  "senses": [
+   "authorize; permit",
+   "penalize; punish"
+  ]
+ },
+ {
+  "word": "sedulous",
+  "group": 7,
+  "senses": [
+   "paying attention to details; diligent"
+  ]
+ },
+ {
+  "word": "soporific",
+  "group": 7,
+  "senses": [
+   "causing sleep or lethargy"
+  ]
+ },
+ {
+  "word": "stern",
+  "group": 7,
+  "senses": [
+   "hard, harsh, or severe in manner"
+  ]
+ },
+ {
+  "word": "tendentious",
+  "group": 7,
+  "senses": [
+   "biased toward a particular view, often a provocative one"
+  ]
+ },
+ {
+  "word": "accentuate",
+  "group": 8,
+  "senses": [
+   "give emphasis or draw attention to something"
+  ]
+ },
+ {
+  "word": "conjectural",
+  "group": 8,
+  "senses": [
+   "pertaining to a guess or inference made with limited data"
+  ]
+ },
+ {
+  "word": "convivial",
+  "group": 8,
+  "senses": [
+   "demonstrating a jovial nature or a fondness for festivities and companionship"
+  ]
+ },
+ {
+  "word": "decadent",
+  "group": 8,
+  "senses": [
+   "displaying excessive indulgence, sometimes to a morally degenerate extent"
+  ]
+ },
+ {
+  "word": "egregious",
+  "group": 8,
+  "senses": [
+   "remarkably bad or shocking, to a conspicuous degree"
+  ]
+ },
+ {
+  "word": "evanescent",
+  "group": 8,
+  "senses": [
+   "vanishing or fading away quickly, like mist or a phantom"
+  ]
+ },
+ {
+  "word": "flamboyant",
+  "group": 8,
+  "senses": [
+   "characterized by a showy, confident, or audacious display"
+  ]
+ },
+ {
+  "word": "forestall",
+  "group": 8,
+  "senses": [
+   "prevent something by taking strategic action in advance"
+  ]
+ },
+ {
+  "word": "gainsay",
+  "group": 8,
+  "senses": [
+   "deny or refute an assertion or argument"
+  ]
+ },
+ {
+  "word": "galvanize",
+  "group": 8,
+  "senses": [
+   "inspire or stir up to action or heightened activity"
+  ]
+ },
+ {
+  "word": "indiscriminate",
+  "group": 8,
+  "senses": [
+   "lacking selectivity or judgment, often with potentially harmful effects"
+  ]
+ },
+ {
+  "word": "innocuous",
+  "group": 8,
+  "senses": [
+   "harmless, having no ill effect"
+  ]
+ },
+ {
+  "word": "momentary",
+  "group": 8,
+  "senses": [
+   "lasting for a brief moment or interval"
+  ]
+ },
+ {
+  "word": "mundane",
+  "group": 8,
+  "senses": [
+   "commonplace or ordinary, lacking excitement"
+  ]
+ },
+ {
+  "word": "nettlesome",
+  "group": 8,
+  "senses": [
+   "causing irritation or annoyance"
+  ]
+ },
+ {
+  "word": "nullify",
+  "group": 8,
+  "senses": [
+   "To render ineffective, cancel out or invalidate."
+  ]
+ },
+ {
+  "word": "obviate",
+  "group": 8,
+  "senses": [
+   "sidestep or bypass a potential problem or difficulty"
+  ]
+ },
+ {
+  "word": "omnipresent",
+  "group": 8,
+  "senses": [
+   "existing or seeming to exist everywhere at once"
+  ]
+ },
+ {
+  "word": "oust",
+  "group": 8,
+  "senses": [
+   "displace or eject from a position or place"
+  ]
+ },
+ {
+  "word": "palpable",
+  "group": 8,
+  "senses": [
+   "displace or eject from a position or place"
+  ]
+ },
+ {
+  "word": "perfidy",
+  "group": 8,
+  "senses": [
+   "act of betrayal or unfaithfulness"
+  ]
+ },
+ {
+  "word": "profuse",
+  "group": 8,
+  "senses": [
+   "abundant, plentiful, or occurring in large amounts"
+  ]
+ },
+ {
+  "word": "pugnacious",
+  "group": 8,
+  "senses": [
+   "quick to engage in a conflict or argument; combative"
+  ]
+ },
+ {
+  "word": "sagacious",
+  "group": 8,
+  "senses": [
+   "demonstrating wisdom or sound judgment"
+  ]
+ },
+ {
+  "word": "sanguine",
+  "group": 8,
+  "senses": [
+   "cheerfully optimistic, particularly in a difficult situation"
+  ]
+ },
+ {
+  "word": "scant",
+  "group": 8,
+  "senses": [
+   "hardly sufficient, meager, or minimal"
+  ]
+ },
+ {
+  "word": "skullduggery",
+  "group": 8,
+  "senses": [
+   "sneaky or dishonest actions"
+  ]
+ },
+ {
+  "word": "trivial",
+  "group": 8,
+  "senses": [
+   "of minor significance or value"
+  ]
+ },
+ {
+  "word": "utilitarian",
+  "group": 8,
+  "senses": [
+   "emphasizing practicality and functionality over aesthetics"
+  ]
+ },
+ {
+  "word": "vapid",
+  "group": 8,
+  "senses": [
+   "uninteresting, lacking flavor or spark"
+  ]
+ },
+ {
+  "word": "boorish",
+  "group": 9,
+  "senses": [
+   "rude or unrefined in manners or behavior"
+  ]
+ },
+ {
+  "word": "brook",
+  "group": 9,
+  "senses": [
+   "to tolerate or endure something, especially an annoyance"
+  ]
+ },
+ {
+  "word": "circumspect",
+  "group": 9,
+  "senses": [
+   "cautious or wary, especially when considering potential consequences"
+  ]
+ },
+ {
+  "word": "comity",
+  "group": 9,
+  "senses": [
+   "a courteous harmony or mutual respect toward others"
+  ]
+ },
+ {
+  "word": "commensurate",
+  "group": 9,
+  "senses": [
+   "comparable in size, extent, or degree; proportionate"
+  ]
+ },
+ {
+  "word": "cordial",
+  "group": 9,
+  "senses": [
+   "characterized by warmth and sincerity"
+  ]
+ },
+ {
+  "word": "deleterious",
+  "group": 9,
+  "senses": [
+   "having a harmful effect"
+  ]
+ },
+ {
+  "word": "dichotomy",
+  "group": 9,
+  "senses": [
+   "a split into two contrasting or opposite parts"
+  ]
+ },
+ {
+  "word": "edify",
+  "group": 9,
+  "senses": [
+   "enlighten or uplift through knowledge; teach"
+  ]
+ },
+ {
+  "word": "elicit",
+  "group": 9,
+  "senses": [
+   "extract a reply or action; provoke"
+  ]
+ },
+ {
+  "word": "erudite",
+  "group": 9,
+  "senses": [
+   "possessing great knowledge, typically from study or research"
+  ]
+ },
+ {
+  "word": "fecund",
+  "group": 9,
+  "senses": [
+   "fertile or highly productive"
+  ]
+ },
+ {
+  "word": "feeble",
+  "group": 9,
+  "senses": [
+   "weak; deficient in strength"
+  ]
+ },
+ {
+  "word": "felicitous",
+  "group": 9,
+  "senses": [
+   "well-suited or apt",
+   "causing delight or satisfaction"
+  ]
+ },
+ {
+  "word": "forbear",
+  "group": 9,
+  "senses": [
+   "refrain or abstain from doing something"
+  ]
+ },
+ {
+  "word": "haphazard",
+  "group": 9,
+  "senses": [
+   "lacking clear planning, order, or direction"
+  ]
+ },
+ {
+  "word": "hodgepodge",
+  "group": 9,
+  "senses": [
+   "a mixture or assortment of different things"
+  ]
+ },
+ {
+  "word": "impede",
+  "group": 9,
+  "senses": [
+   "obstruct or hinder progress"
+  ]
+ },
+ {
+  "word": "impetuous",
+  "group": 9,
+  "senses": [
+   "rash or hasty in action or decision"
+  ]
+ },
+ {
+  "word": "irascible",
+  "group": 9,
+  "senses": [
+   "easily angered or irritated"
+  ]
+ },
+ {
+  "word": "mercenary",
+  "group": 9,
+  "senses": [
+   "motivated primarily by a desire for monetary or material gain"
+  ]
+ },
+ {
+  "word": "meticulous",
+  "group": 9,
+  "senses": [
+   "exhibiting great care to detail"
+  ]
+ },
+ {
+  "word": "mordant",
+  "group": 9,
+  "senses": [
+   "biting or sharply critical in thought or expression"
+  ]
+ },
+ {
+  "word": "outstrip",
+  "group": 9,
+  "senses": [
+   "surpass or do better than"
+  ]
+ },
+ {
+  "word": "precarious",
+  "group": 9,
+  "senses": [
+   "uncertain and likely to cause danger"
+  ]
+ },
+ {
+  "word": "quirky",
+  "group": 9,
+  "senses": [
+   "unusual in an endearing or peculiar way"
+  ]
+ },
+ {
+  "word": "repudiate",
+  "group": 9,
+  "senses": [
+   "reject or refute"
+  ]
+ },
+ {
+  "word": "tact",
+  "group": 9,
+  "senses": [
+   "skill in handling difficult situations without causing offense"
+  ]
+ },
+ {
+  "word": "trifling",
+  "group": 9,
+  "senses": [
+   "lacking significance or importance"
+  ]
+ },
+ {
+  "word": "turbulent",
+  "group": 9,
+  "senses": [
+   "full of conflict or chaos"
+  ]
+ },
+ {
+  "word": "acumen",
+  "group": 10,
+  "senses": [
+   "quickness and keenness in understanding and judgment"
+  ]
+ },
+ {
+  "word": "antithesis",
+  "group": 10,
+  "senses": [
+   "the direct opposite or contrast"
+  ]
+ },
+ {
+  "word": "ascribe",
+  "group": 10,
+  "senses": [
+   "attribute or credit something to a particular cause or source"
+  ]
+ },
+ {
+  "word": "befuddled",
+  "group": 10,
+  "senses": [
+   "confused, bewildered, or perplexed"
+  ]
+ },
+ {
+  "word": "eschew",
+  "group": 10,
+  "senses": [
+   "intentionally avoid or abstain from"
+  ]
+ },
+ {
+  "word": "esoteric",
+  "group": 10,
+  "senses": [
+   "understood by few or a small group of people"
+  ]
+ },
+ {
+  "word": "evasive",
+  "group": 10,
+  "senses": [
+   "indirect or not straightforward; avoiding confrontation"
+  ]
+ },
+ {
+  "word": "exculpate",
+  "group": 10,
+  "senses": [
+   "clear from blame or guilt"
+  ]
+ },
+ {
+  "word": "expedite",
+  "group": 10,
+  "senses": [
+   "accelerate or speed up a process or action"
+  ]
+ },
+ {
+  "word": "fastidious",
+  "group": 10,
+  "senses": [
+   "showing great care and attention to detail; hard to please"
+  ]
+ },
+ {
+  "word": "feign",
+  "group": 10,
+  "senses": [
+   "pretend or simulate"
+  ]
+ },
+ {
+  "word": "furtive",
+  "group": 10,
+  "senses": [
+   "sneaky or secretive, especially due to guilt"
+  ]
+ },
+ {
+  "word": "hamper",
+  "group": 10,
+  "senses": [
+   "obstruct or hinder progress"
+  ]
+ },
+ {
+  "word": "indispensable",
+  "group": 10,
+  "senses": [
+   "completely necessary; essential"
+  ]
+ },
+ {
+  "word": "lament",
+  "group": 10,
+  "senses": [
+   "express deep sorrow or regret"
+  ]
+ },
+ {
+  "word": "myopic",
+  "group": 10,
+  "senses": [
+   "short-sighted; lacking creativity"
+  ]
+ },
+ {
+  "word": "nonchalant",
+  "group": 10,
+  "senses": [
+   "appearing casually calm or indifferent"
+  ]
+ },
+ {
+  "word": "partial",
+  "group": 10,
+  "senses": [
+   "prejudiced or biased toward one side"
+  ]
+ },
+ {
+  "word": "pensive",
+  "group": 10,
+  "senses": [
+   "deep in thought"
+  ]
+ },
+ {
+  "word": "portend",
+  "group": 10,
+  "senses": [
+   "indicate or warn that something, often unpleasant, is going to happen"
+  ]
+ },
+ {
+  "word": "provincial",
+  "group": 10,
+  "senses": [
+   "narrow in perspective; not sophisticated"
+  ]
+ },
+ {
+  "word": "rudimentary",
+  "group": 10,
+  "senses": [
+   "basic or elementary; in the earliest stages of development"
+  ]
+ },
+ {
+  "word": "salutary",
+  "group": 10,
+  "senses": [
+   "beneficial, especially in promoting health or well-being"
+  ]
+ },
+ {
+  "word": "sever",
+  "group": 10,
+  "senses": [
+   "cut off or put an end to"
+  ]
+ },
+ {
+  "word": "slight",
+  "group": 10,
+  "senses": [
+   "treat with disrespect or neglect; insult"
+  ]
+ },
+ {
+  "word": "somnolent",
+  "group": 10,
+  "senses": [
+   "sleepy or drowsy"
+  ]
+ },
+ {
+  "word": "stoic",
+  "group": 10,
+  "senses": [
+   "unaffected by pain or distress; showing no emotion"
+  ]
+ },
+ {
+  "word": "supersede",
+  "group": 10,
+  "senses": [
+   "replace or take the place of"
+  ]
+ },
+ {
+  "word": "tout",
+  "group": 10,
+  "senses": [
+   "promote or praise energetically"
+  ]
+ },
+ {
+  "word": "wane",
+  "group": 10,
+  "senses": [
+   "decrease in power, size, or intensity"
+  ]
+ },
+ {
+  "word": "abhor",
+  "group": 11,
+  "senses": [
+   "detest or regard with deep hatred"
+  ]
+ },
+ {
+  "word": "boisterous",
+  "group": 11,
+  "senses": [
+   "energetic, noisy, and lively"
+  ]
+ },
+ {
+  "word": "chivalrous",
+  "group": 11,
+  "senses": [
+   "honorable and polite"
+  ]
+ },
+ {
+  "word": "churlish",
+  "group": 11,
+  "senses": [
+   "rude or lacking good manners"
+  ]
+ },
+ {
+  "word": "clandestine",
+  "group": 11,
+  "senses": [
+   "secretive; avoiding attention"
+  ]
+ },
+ {
+  "word": "complacent",
+  "group": 11,
+  "senses": [
+   "smugly self-satisfied, often without awareness of potential dangers"
+  ]
+ },
+ {
+  "word": "cumbersome",
+  "group": 11,
+  "senses": [
+   "large, heavy, slow or complicated"
+  ]
+ },
+ {
+  "word": "debilitating",
+  "group": 11,
+  "senses": [
+   "weakening or impairing strength"
+  ]
+ },
+ {
+  "word": "deliberate",
+  "group": 11,
+  "senses": [
+   "think over or discuss carefully",
+   "intentional"
+  ]
+ },
+ {
+  "word": "droll",
+  "group": 11,
+  "senses": [
+   "amusing in a quirky or unusual way"
+  ]
+ },
+ {
+  "word": "eccentric",
+  "group": 11,
+  "senses": [
+   "deviating from conventional behavior; quirky"
+  ]
+ },
+ {
+  "word": "fractious",
+  "group": 11,
+  "senses": [
+   "quarrelsome and irritable; unruly"
+  ]
+ },
+ {
+  "word": "limpid",
+  "group": 11,
+  "senses": [
+   "clear, transparent, or easy to understand"
+  ]
+ },
+ {
+  "word": "mawkish",
+  "group": 11,
+  "senses": [
+   "overly sentimental in a way that seems exaggerated or insincere"
+  ]
+ },
+ {
+  "word": "obeisance",
+  "group": 11,
+  "senses": [
+   "reverence for an individual"
+  ]
+ },
+ {
+  "word": "ostentatious",
+  "group": 11,
+  "senses": [
+   "showy or designed to impress"
+  ]
+ },
+ {
+  "word": "panacea",
+  "group": 11,
+  "senses": [
+   "a perfect cure for something"
+  ]
+ },
+ {
+  "word": "perfunctory",
+  "group": 11,
+  "senses": [
+   "done without enthusiasm or effort;"
+  ]
+ },
+ {
+  "word": "perilous",
+  "group": 11,
+  "senses": [
+   "risky and hazardous"
+  ]
+ },
+ {
+  "word": "pervasive",
+  "group": 11,
+  "senses": [
+   "spreading quickly and in great numbers"
+  ]
+ },
+ {
+  "word": "preclude",
+  "group": 11,
+  "senses": [
+   "prevent something from occurring"
+  ]
+ },
+ {
+  "word": "predilection",
+  "group": 11,
+  "senses": [
+   "preference or bias towards something"
+  ]
+ },
+ {
+  "word": "rapacious",
+  "group": 11,
+  "senses": [
+   "very greedy"
+  ]
+ },
+ {
+  "word": "relish",
+  "group": 11,
+  "senses": [
+   "take great pleasure or delight in"
+  ]
+ },
+ {
+  "word": "satirical",
+  "group": 11,
+  "senses": [
+   "using humor or irony to criticize or mock"
+  ]
+ },
+ {
+  "word": "sham",
+  "group": 11,
+  "senses": [
+   "fake; not genuine"
+  ]
+ },
+ {
+  "word": "skirt",
+  "group": 11,
+  "senses": [
+   "go around or avoid something, especially an issue or obstacle"
+  ]
+ },
+ {
+  "word": "sluggish",
+  "group": 11,
+  "senses": [
+   "lacking energy; slow and listless"
+  ]
+ },
+ {
+  "word": "spartan",
+  "group": 11,
+  "senses": [
+   "marked by simplicity, frugality, and avoidance of luxury"
+  ]
+ },
+ {
+  "word": "truculent",
+  "group": 11,
+  "senses": [
+   "aggressively combative or confrontational"
+  ]
+ },
+ {
+  "word": "acrimonious",
+  "group": 12,
+  "senses": [
+   "bitter and sharp in language or tone"
+  ]
+ },
+ {
+  "word": "belligerent",
+  "group": 12,
+  "senses": [
+   "argumentative, threatening, or aggressive"
+  ]
+ },
+ {
+  "word": "beneficent",
+  "group": 12,
+  "senses": [
+   "kind and charitable, producing good results or benefits"
+  ]
+ },
+ {
+  "word": "canny",
+  "group": 12,
+  "senses": [
+   "shrewd and cautious"
+  ]
+ },
+ {
+  "word": "cavalier",
+  "group": 12,
+  "senses": [
+   "exhibiting an overly casual attitude; unconcerned"
+  ]
+ },
+ {
+  "word": "distressed",
+  "group": 12,
+  "senses": [
+   "experiencing nervousness, irritation, or sadness"
+  ]
+ },
+ {
+  "word": "dwindling",
+  "group": 12,
+  "senses": [
+   "decreasing steadily in size or quantity"
+  ]
+ },
+ {
+  "word": "eclipse",
+  "group": 12,
+  "senses": [
+   "overshadow or surpass"
+  ]
+ },
+ {
+  "word": "encyclopedic",
+  "group": 12,
+  "senses": [
+   "thorough; comprehensive in scope"
+  ]
+ },
+ {
+  "word": "exacerbate",
+  "group": 12,
+  "senses": [
+   "make a situation or condition worse"
+  ]
+ },
+ {
+  "word": "exasperated",
+  "group": 12,
+  "senses": [
+   "severely irritated or angry"
+  ]
+ },
+ {
+  "word": "fungible",
+  "group": 12,
+  "senses": [
+   "interchangeable for another item of a similar type"
+  ]
+ },
+ {
+  "word": "hackneyed",
+  "group": 12,
+  "senses": [
+   "lacking creativity; derivative and overused"
+  ]
+ },
+ {
+  "word": "incongruous",
+  "group": 12,
+  "senses": [
+   "out of place; lacking harmony"
+  ]
+ },
+ {
+  "word": "interchangeable",
+  "group": 12,
+  "senses": [
+   "capable of being used in place of each other"
+  ]
+ },
+ {
+  "word": "laconic",
+  "group": 12,
+  "senses": [
+   "economical with words; quiet and reserved"
+  ]
+ },
+ {
+  "word": "lucrative",
+  "group": 12,
+  "senses": [
+   "producing a significant amount of money"
+  ]
+ },
+ {
+  "word": "magisterial",
+  "group": 12,
+  "senses": [
+   "possessing great authority",
+   "exercising authority in an excessive manner"
+  ]
+ },
+ {
+  "word": "onerous",
+  "group": 12,
+  "senses": [
+   "involving a heavy burden; challenging or difficult"
+  ]
+ },
+ {
+  "word": "opprobrium",
+  "group": 12,
+  "senses": [
+   "severe criticism or public shame"
+  ]
+ },
+ {
+  "word": "parsimonious",
+  "group": 12,
+  "senses": [
+   "extremely frugal or stingy"
+  ]
+ },
+ {
+  "word": "peripheral",
+  "group": 12,
+  "senses": [
+   "of marginal importance; minor"
+  ]
+ },
+ {
+  "word": "provocative",
+  "group": 12,
+  "senses": [
+   "causing outrage or irritation, often intentionally"
+  ]
+ },
+ {
+  "word": "renounce",
+  "group": 12,
+  "senses": [
+   "reject or give up"
+  ]
+ },
+ {
+  "word": "tempestuous",
+  "group": 12,
+  "senses": [
+   "(of emotions or actions) unrestrained and turbulent",
+   "(of weather) extremely stormy"
+  ]
+ },
+ {
+  "word": "tenable",
+  "group": 12,
+  "senses": [
+   "(of an idea or method) justifiable and rational"
+  ]
+ },
+ {
+  "word": "transgression",
+  "group": 12,
+  "senses": [
+   "a violation of a law, rule, or social norm"
+  ]
+ },
+ {
+  "word": "urbane",
+  "group": 12,
+  "senses": [
+   "refined, sophisticated, and courteous"
+  ]
+ },
+ {
+  "word": "verisimilitude",
+  "group": 12,
+  "senses": [
+   "appearance or semblance of truth or reality; believability."
+  ]
+ },
+ {
+  "word": "vitiate",
+  "group": 12,
+  "senses": [
+   "impair or corrupt the quality of something"
+  ]
+ },
+ {
+  "word": "affinity",
+  "group": 13,
+  "senses": [
+   "a natural liking or connection to a person, thing, or idea",
+   "a similarity between two things"
+  ]
+ },
+ {
+  "word": "altruistic",
+  "group": 13,
+  "senses": [
+   "showing generosity and concern for the welfare of others"
+  ]
+ },
+ {
+  "word": "baroque",
+  "group": 13,
+  "senses": [
+   "overly detailed or ornamental"
+  ]
+ },
+ {
+  "word": "byzantine",
+  "group": 13,
+  "senses": [
+   "overly complex or intricate"
+  ]
+ },
+ {
+  "word": "compromise",
+  "group": 13,
+  "senses": [
+   "weaken or diminish in quality, character, or value"
+  ]
+ },
+ {
+  "word": "conciliatory",
+  "group": 13,
+  "senses": [
+   "intended to appease or calm someone down"
+  ]
+ },
+ {
+  "word": "countenance",
+  "group": 13,
+  "senses": [
+   "accept or permit",
+   "the look of a person's face or expression"
+  ]
+ },
+ {
+  "word": "covert",
+  "group": 13,
+  "senses": [
+   "hidden or concealed; not openly practiced"
+  ]
+ },
+ {
+  "word": "credible",
+  "group": 13,
+  "senses": [
+   "able to be trusted; persuasive"
+  ]
+ },
+ {
+  "word": "diffuse",
+  "group": 13,
+  "senses": [
+   "spread or disperse widely",
+   "scattered over a large area"
+  ]
+ },
+ {
+  "word": "documentary",
+  "group": 13,
+  "senses": [
+   "based on or reproducing real events or facts"
+  ]
+ },
+ {
+  "word": "exhaustive",
+  "group": 13,
+  "senses": [
+   "thorough and comprehensive"
+  ]
+ },
+ {
+  "word": "exhilarating",
+  "group": 13,
+  "senses": [
+   "intensely exciting"
+  ]
+ },
+ {
+  "word": "extraneous",
+  "group": 13,
+  "senses": [
+   "lacking relevance; unnecessary"
+  ]
+ },
+ {
+  "word": "fervor",
+  "group": 13,
+  "senses": [
+   "intense enthusiasm toward something"
+  ]
+ },
+ {
+  "word": "futile",
+  "group": 13,
+  "senses": [
+   "incapable of resulting in anything worthwhile"
+  ]
+ },
+ {
+  "word": "illusory",
+  "group": 13,
+  "senses": [
+   "unreal or based on illusion"
+  ]
+ },
+ {
+  "word": "invidious",
+  "group": 13,
+  "senses": [
+   "likely to cause resentment or envy",
+   "unfair; prejudiced against someone or something"
+  ]
+ },
+ {
+  "word": "lethargic",
+  "group": 13,
+  "senses": [
+   "sluggish; tired"
+  ]
+ },
+ {
+  "word": "metaphorical",
+  "group": 13,
+  "senses": [
+   "symbolic rather than literal"
+  ]
+ },
+ {
+  "word": "mimic",
+  "group": 13,
+  "senses": [
+   "to imitate or copy someone or something"
+  ]
+ },
+ {
+  "word": "numinous",
+  "group": 13,
+  "senses": [
+   "having a spiritual or divine quality"
+  ]
+ },
+ {
+  "word": "obscure",
+  "group": 13,
+  "senses": [
+   "not clearly expressed or understood",
+   "making something unclear and vague"
+  ]
+ },
+ {
+  "word": "overt",
+  "group": 13,
+  "senses": [
+   "open and observable; not hidden or secret"
+  ]
+ },
+ {
+  "word": "pellucid",
+  "group": 13,
+  "senses": [
+   "transparently clear in meaning or style",
+   "(of a body of water or substance) transparent and clear"
+  ]
+ },
+ {
+  "word": "perpetuate",
+  "group": 13,
+  "senses": [
+   "make (something) continue for an indefinite time"
+  ]
+ },
+ {
+  "word": "rational",
+  "group": 13,
+  "senses": [
+   "based on clear thought or reason"
+  ]
+ },
+ {
+  "word": "scathing",
+  "group": 13,
+  "senses": [
+   "harshly or bitterly critical; vitriolic"
+  ]
+ },
+ {
+  "word": "subtle",
+  "group": 13,
+  "senses": [
+   "delicate or slight; not obvious"
+  ]
+ },
+ {
+  "word": "superficial",
+  "group": 13,
+  "senses": [
+   "existing, occurring, or located on the surface",
+   "not profound or thorough"
+  ]
+ },
+ {
+  "word": "acquiesce",
+  "group": 14,
+  "senses": [
+   "agree or consent quietly without objection"
+  ]
+ },
+ {
+  "word": "adroit",
+  "group": 14,
+  "senses": [
+   "deft, dexterous, or skillful"
+  ]
+ },
+ {
+  "word": "amend",
+  "group": 14,
+  "senses": [
+   "make changes to a document, law, or statement, usually to improve it"
+  ]
+ },
+ {
+  "word": "animus",
+  "group": 14,
+  "senses": [
+   "strong dislike or enmity; hostile attitude"
+  ]
+ },
+ {
+  "word": "apologist",
+  "group": 14,
+  "senses": [
+   "a person who defends or supports something that is being criticized"
+  ]
+ },
+ {
+  "word": "astringent",
+  "group": 14,
+  "senses": [
+   "sharp or harsh in demeanor or style"
+  ]
+ },
+ {
+  "word": "collaborate",
+  "group": 14,
+  "senses": [
+   "work together on a project",
+   "cooperate deviously with an enemy"
+  ]
+ },
+ {
+  "word": "competent",
+  "group": 14,
+  "senses": [
+   "having sufficient skill, knowledge, ability, or qualifications"
+  ]
+ },
+ {
+  "word": "correlate",
+  "group": 14,
+  "senses": [
+   "show a mutual relationship or connection between two or more things"
+  ]
+ },
+ {
+  "word": "deride",
+  "group": 14,
+  "senses": [
+   "ridicule or mock"
+  ]
+ },
+ {
+  "word": "dictate",
+  "group": 14,
+  "senses": [
+   "give orders or commands"
+  ]
+ },
+ {
+  "word": "discreet",
+  "group": 14,
+  "senses": [
+   "respectful of privacy or secrecy; inconspicuous"
+  ]
+ },
+ {
+  "word": "divorced",
+  "group": 14,
+  "senses": [
+   "separate from something that was previously connected"
+  ]
+ },
+ {
+  "word": "elitist",
+  "group": 14,
+  "senses": [
+   "a person who believes in the rule of an elite or privileged group",
+   "believing oneself or a group to be superior to others"
+  ]
+ },
+ {
+  "word": "exacting",
+  "group": 14,
+  "senses": [
+   "requiring a lot of care, effort, or attention"
+  ]
+ },
+ {
+  "word": "flummoxed",
+  "group": 14,
+  "senses": [
+   "completely unable to understand; bewildered"
+  ]
+ },
+ {
+  "word": "fruitful",
+  "group": 14,
+  "senses": [
+   "producing good or abundant results"
+  ]
+ },
+ {
+  "word": "inborn",
+  "group": 14,
+  "senses": [
+   "present from birth; innate"
+  ]
+ },
+ {
+  "word": "polymath",
+  "group": 14,
+  "senses": [
+   "a person with extraordinarily broad and comprehensive knowledge"
+  ]
+ },
+ {
+  "word": "reticent",
+  "group": 14,
+  "senses": [
+   "keeping one's thoughts and opinions to oneself; reserved or restrained"
+  ]
+ },
+ {
+  "word": "stringent",
+  "group": 14,
+  "senses": [
+   "strict or severe; tight"
+  ]
+ },
+ {
+  "word": "subservient",
+  "group": 14,
+  "senses": [
+   "obedient to an authority or other people",
+   "less important; inferior to"
+  ]
+ },
+ {
+  "word": "surreptitious",
+  "group": 14,
+  "senses": [
+   "done secretly or stealthily"
+  ]
+ },
+ {
+  "word": "tantalizing",
+  "group": 14,
+  "senses": [
+   "arousing desire or interest without fulfillment"
+  ]
+ },
+ {
+  "word": "tantamount",
+  "group": 14,
+  "senses": [
+   "equivalent in effect or value"
+  ]
+ },
+ {
+  "word": "torpor",
+  "group": 14,
+  "senses": [
+   "a state of apathy or lethargy"
+  ]
+ },
+ {
+  "word": "trenchant",
+  "group": 14,
+  "senses": [
+   "keen and biting; vigorously articulate"
+  ]
+ },
+ {
+  "word": "umbrage",
+  "group": 14,
+  "senses": [
+   "a feeling of anger or annoyance caused by something offensive"
+  ]
+ },
+ {
+  "word": "versatile",
+  "group": 14,
+  "senses": [
+   "having varied uses or many functions; capable of doing many things"
+  ]
+ },
+ {
+  "word": "wayward",
+  "group": 14,
+  "senses": [
+   "obstinate, contrary and unpredictable"
+  ]
+ },
+ {
+  "word": "alienate",
+  "group": 15,
+  "senses": [
+   "make someone feel isolated and estranged"
+  ]
+ },
+ {
+  "word": "apathy",
+  "group": 15,
+  "senses": [
+   "lack of interest or enthusiasm towards something"
+  ]
+ },
+ {
+  "word": "apropos",
+  "group": 15,
+  "senses": [
+   "appropriate or relevant to the situation."
+  ]
+ },
+ {
+  "word": "apt",
+  "group": 15,
+  "senses": [
+   "suitable or appropriate",
+   "having a tendency toward something",
+   "quick to learn"
+  ]
+ },
+ {
+  "word": "cloak",
+  "group": 15,
+  "senses": [
+   "conceal or disguise"
+  ]
+ },
+ {
+  "word": "consensus",
+  "group": 15,
+  "senses": [
+   "general agreement among the members of a group"
+  ]
+ },
+ {
+  "word": "distort",
+  "group": 15,
+  "senses": [
+   "give a false or misleading account of"
+  ]
+ },
+ {
+  "word": "divergent",
+  "group": 15,
+  "senses": [
+   "growing further apart; disagreeing"
+  ]
+ },
+ {
+  "word": "elated",
+  "group": 15,
+  "senses": [
+   "very happy or proud"
+  ]
+ },
+ {
+  "word": "enchant",
+  "group": 15,
+  "senses": [
+   "capture the attention or to charm"
+  ]
+ },
+ {
+  "word": "entrenched",
+  "group": 15,
+  "senses": [
+   "firmly ingrained and unlikely to change"
+  ]
+ },
+ {
+  "word": "exotic",
+  "group": 15,
+  "senses": [
+   "foreign, especially in an exciting way"
+  ]
+ },
+ {
+  "word": "exploitative",
+  "group": 15,
+  "senses": [
+   "taking unfair advantage of a person, group, or situation"
+  ]
+ },
+ {
+  "word": "foreseeable",
+  "group": 15,
+  "senses": [
+   "able to be predicted or expected"
+  ]
+ },
+ {
+  "word": "forsake",
+  "group": 15,
+  "senses": [
+   "abandon or give up"
+  ]
+ },
+ {
+  "word": "gratify",
+  "group": 15,
+  "senses": [
+   "please or satisfy; make content"
+  ]
+ },
+ {
+  "word": "heed",
+  "group": 15,
+  "senses": [
+   "mind or regard with care; pay attention"
+  ]
+ },
+ {
+  "word": "judicious",
+  "group": 15,
+  "senses": [
+   "having, characterized by, or done with good judgment or sound thinking"
+  ]
+ },
+ {
+  "word": "lucid",
+  "group": 15,
+  "senses": [
+   "clear and easy to understand"
+  ]
+ },
+ {
+  "word": "pertinent",
+  "group": 15,
+  "senses": [
+   "important with regard to (a subject or matter); pertaining; relevant"
+  ]
+ },
+ {
+  "word": "propriety",
+  "group": 15,
+  "senses": [
+   "conformity to established standards of good or proper behavior"
+  ]
+ },
+ {
+  "word": "scintillating",
+  "group": 15,
+  "senses": [
+   "brilliantly or impressively clever, exciting, amusing or witty"
+  ]
+ },
+ {
+  "word": "sensational",
+  "group": 15,
+  "senses": [
+   "exaggerated for effect, often sacrificing accuracy"
+  ]
+ },
+ {
+  "word": "sophisticated",
+  "group": 15,
+  "senses": [
+   "experienced, worldly, or cultured",
+   "advanced or intricate, often in tech"
+  ]
+ },
+ {
+  "word": "strife",
+  "group": 15,
+  "senses": [
+   "conflict or struggle"
+  ]
+ },
+ {
+  "word": "understated",
+  "group": 15,
+  "senses": [
+   "expressed in a subtle, restrained, or low-key manner"
+  ]
+ },
+ {
+  "word": "unscrupulous",
+  "group": 15,
+  "senses": [
+   "without moral principles"
+  ]
+ },
+ {
+  "word": "veracity",
+  "group": 15,
+  "senses": [
+   "conformity to truth or accuracy"
+  ]
+ },
+ {
+  "word": "virulent",
+  "group": 15,
+  "senses": [
+   "extremely hostile or malicious; intensely acrimonious"
+  ]
+ },
+ {
+  "word": "volatile",
+  "group": 15,
+  "senses": [
+   "likely to change unpredictably and quickly (usually for the worse)"
+  ]
+ },
+ {
+  "word": "antedate",
+  "group": 16,
+  "senses": [
+   "occur before (something) in time"
+  ]
+ },
+ {
+  "word": "banish",
+  "group": 16,
+  "senses": [
+   "expel from a place, especially as punishment; get rid of"
+  ]
+ },
+ {
+  "word": "bridle",
+  "group": 16,
+  "senses": [
+   "control or restrain"
+  ]
+ },
+ {
+  "word": "comply",
+  "group": 16,
+  "senses": [
+   "obey someone's rules or wishes; meet certain standards"
+  ]
+ },
+ {
+  "word": "crestfallen",
+  "group": 16,
+  "senses": [
+   "disappointed, dispirited, or depressed"
+  ]
+ },
+ {
+  "word": "curtail",
+  "group": 16,
+  "senses": [
+   "restrict or limit; decrease in quantity"
+  ]
+ },
+ {
+  "word": "elucidate",
+  "group": 16,
+  "senses": [
+   "make clear; clarify or shed light on"
+  ]
+ },
+ {
+  "word": "evade",
+  "group": 16,
+  "senses": [
+   "avoid or escape from, typically in a cunning way",
+   "deflect from giving a clear answer"
+  ]
+ },
+ {
+  "word": "feckless",
+  "group": 16,
+  "senses": [
+   "without skill, ineffective, incompetent"
+  ]
+ },
+ {
+  "word": "fester",
+  "group": 16,
+  "senses": [
+   "(of a negative feeling or a problem) worsen, especially due to lack of attention"
+  ]
+ },
+ {
+  "word": "iconoclastic",
+  "group": 16,
+  "senses": [
+   "challenging or overthrowing tradition or established beliefs"
+  ]
+ },
+ {
+  "word": "immure",
+  "group": 16,
+  "senses": [
+   "imprison or isolate"
+  ]
+ },
+ {
+  "word": "improvise",
+  "group": 16,
+  "senses": [
+   "create something spontaneously without preparation"
+  ]
+ },
+ {
+  "word": "inhibit",
+  "group": 16,
+  "senses": [
+   "make difficult to accomplish; act as an obstacle"
+  ]
+ },
+ {
+  "word": "inscrutable",
+  "group": 16,
+  "senses": [
+   "not easily understood; mysterious"
+  ]
+ },
+ {
+  "word": "lionize",
+  "group": 16,
+  "senses": [
+   "treat someone as a celebrity or hero"
+  ]
+ },
+ {
+  "word": "monotonous",
+  "group": 16,
+  "senses": [
+   "lacking in variety, repetitively dull"
+  ]
+ },
+ {
+  "word": "peculiar",
+  "group": 16,
+  "senses": [
+   "strange or unusual; specific to a particular place or group"
+  ]
+ },
+ {
+  "word": "premeditate",
+  "group": 16,
+  "senses": [
+   "consider or plan beforehand"
+  ]
+ },
+ {
+  "word": "profligate",
+  "group": 16,
+  "senses": [
+   "inclined to waste resources or behave extravagantly"
+  ]
+ },
+ {
+  "word": "reconcile",
+  "group": 16,
+  "senses": [
+   "bring back or return to harmony; restore a relationship"
+  ]
+ },
+ {
+  "word": "refine",
+  "group": 16,
+  "senses": [
+   "purify; bring to a pure state",
+   "improve in accuracy or excellence"
+  ]
+ },
+ {
+  "word": "relinquish",
+  "group": 16,
+  "senses": [
+   "give up or release a claim, right, or possession"
+  ]
+ },
+ {
+  "word": "ruminate",
+  "group": 16,
+  "senses": [
+   "meditate or reflect; ponder over"
+  ]
+ },
+ {
+  "word": "skittish",
+  "group": 16,
+  "senses": [
+   "easily scared or startled; timid; difficult to control"
+  ]
+ },
+ {
+  "word": "superfluous",
+  "group": 16,
+  "senses": [
+   "more than is necessary; excessive"
+  ]
+ },
+ {
+  "word": "synoptic",
+  "group": 16,
+  "senses": [
+   "providing a general overview or summary"
+  ]
+ },
+ {
+  "word": "thorough",
+  "group": 16,
+  "senses": [
+   "careful and complete concerning every detail"
+  ]
+ },
+ {
+  "word": "visionary",
+  "group": 16,
+  "senses": [
+   "showing foresight or imagination"
+  ]
+ },
+ {
+  "word": "vociferous",
+  "group": 16,
+  "senses": [
+   "expressing opinions or feelings loudly and forcefully"
+  ]
+ },
+ {
+  "word": "acclaim",
+  "group": 17,
+  "senses": [
+   "praise with great approval",
+   "enthusiastic approval"
+  ]
+ },
+ {
+  "word": "ascertain",
+  "group": 17,
+  "senses": [
+   "find out or learn with certainty"
+  ]
+ },
+ {
+  "word": "assertive",
+  "group": 17,
+  "senses": [
+   "confident and direct in claiming one's rights or expressing ideas"
+  ]
+ },
+ {
+  "word": "bogus",
+  "group": 17,
+  "senses": [
+   "fake or fraudulent"
+  ]
+ },
+ {
+  "word": "cataclysmic",
+  "group": 17,
+  "senses": [
+   "causing great disruption or upheaval"
+  ]
+ },
+ {
+  "word": "circumscribe",
+  "group": 17,
+  "senses": [
+   "limit or restrict something narrowly"
+  ]
+ },
+ {
+  "word": "complementary",
+  "group": 17,
+  "senses": [
+   "enhancing or perfecting when combined with something else"
+  ]
+ },
+ {
+  "word": "contentious",
+  "group": 17,
+  "senses": [
+   "causing or likely to provoke disagreement"
+  ]
+ },
+ {
+  "word": "disingenuous",
+  "group": 17,
+  "senses": [
+   "pretending to be sincere or straightforward"
+  ]
+ },
+ {
+  "word": "divulge",
+  "group": 17,
+  "senses": [
+   "disclose or reveal information"
+  ]
+ },
+ {
+  "word": "dogmatic",
+  "group": 17,
+  "senses": [
+   "insisting on one's ideas without being open to others'"
+  ]
+ },
+ {
+  "word": "fallacious",
+  "group": 17,
+  "senses": [
+   "false or mistaken"
+  ]
+ },
+ {
+  "word": "foolhardy",
+  "group": 17,
+  "senses": [
+   "recklessly daring; careless"
+  ]
+ },
+ {
+  "word": "hinder",
+  "group": 17,
+  "senses": [
+   "obstruct or delay progress"
+  ]
+ },
+ {
+  "word": "impair",
+  "group": 17,
+  "senses": [
+   "weaken or affect negatively"
+  ]
+ },
+ {
+  "word": "impugn",
+  "group": 17,
+  "senses": [
+   "challenge the truth or honesty of something"
+  ]
+ },
+ {
+  "word": "incessant",
+  "group": 17,
+  "senses": [
+   "constant or unending (of something bad or unpleasant)"
+  ]
+ },
+ {
+  "word": "inclined",
+  "group": 17,
+  "senses": [
+   "feeling a tendency or preference towards"
+  ]
+ },
+ {
+  "word": "inveterate",
+  "group": 17,
+  "senses": [
+   "deep-rooted or long-established"
+  ]
+ },
+ {
+  "word": "miserly",
+  "group": 17,
+  "senses": [
+   "reluctant to spend or share; greedy"
+  ]
+ },
+ {
+  "word": "patent",
+  "group": 17,
+  "senses": [
+   "clear or obvious"
+  ]
+ },
+ {
+  "word": "petulant",
+  "group": 17,
+  "senses": [
+   "irritable or impatient, especially over minor issues"
+  ]
+ },
+ {
+  "word": "pithy",
+  "group": 17,
+  "senses": [
+   "expressing ideas in a concise, meaningful manner"
+  ]
+ },
+ {
+  "word": "pliant",
+  "group": 17,
+  "senses": [
+   "flexible or easily influenced"
+  ]
+ },
+ {
+  "word": "sanctimonious",
+  "group": 17,
+  "senses": [
+   "giving the impression that one is morally superior"
+  ]
+ },
+ {
+  "word": "sound",
+  "group": 17,
+  "senses": [
+   "based on reason, sense, or judgment"
+  ]
+ },
+ {
+  "word": "tarnish",
+  "group": 17,
+  "senses": [
+   "compromise, damage, or sully"
+  ]
+ },
+ {
+  "word": "tepid",
+  "group": 17,
+  "senses": [
+   "exhibiting little passion or eagerness; lukewarm"
+  ]
+ },
+ {
+  "word": "upbraid",
+  "group": 17,
+  "senses": [
+   "criticize or scold severely"
+  ]
+ },
+ {
+  "word": "vexation",
+  "group": 17,
+  "senses": [
+   "the state of being irritated or incensed"
+  ]
+ },
+ {
+  "word": "abet",
+  "group": 18,
+  "senses": [
+   "assist or encourage, usually in wrongdoing"
+  ]
+ },
+ {
+  "word": "accessible",
+  "group": 18,
+  "senses": [
+   "clear; capable of being understood"
+  ]
+ },
+ {
+  "word": "acquisitive",
+  "group": 18,
+  "senses": [
+   "eager to acquire and possess things"
+  ]
+ },
+ {
+  "word": "amalgamate",
+  "group": 18,
+  "senses": [
+   "merge or combine two or more things"
+  ]
+ },
+ {
+  "word": "attenuate",
+  "group": 18,
+  "senses": [
+   "weaken or lessen in force or thickness"
+  ]
+ },
+ {
+  "word": "augment",
+  "group": 18,
+  "senses": [
+   "increase or make larger"
+  ]
+ },
+ {
+  "word": "aversion",
+  "group": 18,
+  "senses": [
+   "an intense or definite dislike"
+  ]
+ },
+ {
+  "word": "blithe",
+  "group": 18,
+  "senses": [
+   "showing indifference"
+  ]
+ },
+ {
+  "word": "contempt",
+  "group": 18,
+  "senses": [
+   "the feeling or attitude of regarding someone or something as inferior"
+  ]
+ },
+ {
+  "word": "dawdle",
+  "group": 18,
+  "senses": [
+   "move slowly and without purpose"
+  ]
+ },
+ {
+  "word": "deflect",
+  "group": 18,
+  "senses": [
+   "change the direction or course of something; make someone deviate"
+  ]
+ },
+ {
+  "word": "discount",
+  "group": 18,
+  "senses": [
+   "regard something as being unimportant or incorrect"
+  ]
+ },
+ {
+  "word": "dissident",
+  "group": 18,
+  "senses": [
+   "one who disagrees or opposes authority"
+  ]
+ },
+ {
+  "word": "efficacious",
+  "group": 18,
+  "senses": [
+   "producing the desired effect; successful"
+  ]
+ },
+ {
+  "word": "equitable",
+  "group": 18,
+  "senses": [
+   "characterized by fairness and justice"
+  ]
+ },
+ {
+  "word": "erratic",
+  "group": 18,
+  "senses": [
+   "unpredictable and inconsistent"
+  ]
+ },
+ {
+  "word": "industrious",
+  "group": 18,
+  "senses": [
+   "hard-working and persistent"
+  ]
+ },
+ {
+  "word": "inform",
+  "group": 18,
+  "senses": [
+   "give form or character to something or someone"
+  ]
+ },
+ {
+  "word": "irksome",
+  "group": 18,
+  "senses": [
+   "causing annoyance or irritation"
+  ]
+ },
+ {
+  "word": "manacle",
+  "group": 18,
+  "senses": [
+   "(used figuratively) restrain, limit, or secure something"
+  ]
+ },
+ {
+  "word": "modest",
+  "group": 18,
+  "senses": [
+   "unassuming about one's abilities or not boastful",
+   "limited in quantity or amount"
+  ]
+ },
+ {
+  "word": "noxious",
+  "group": 18,
+  "senses": [
+   "harmful; injurious"
+  ]
+ },
+ {
+  "word": "pernicious",
+  "group": 18,
+  "senses": [
+   "causing harm in a subtle way; deadly"
+  ]
+ },
+ {
+  "word": "predicament",
+  "group": 18,
+  "senses": [
+   "a challenging or awkward situation"
+  ]
+ },
+ {
+  "word": "proficient",
+  "group": 18,
+  "senses": [
+   "good at something; skilled"
+  ]
+ },
+ {
+  "word": "prolix",
+  "group": 18,
+  "senses": [
+   "using an excessive amount of words; long-winded"
+  ]
+ },
+ {
+  "word": "scorn",
+  "group": 18,
+  "senses": [
+   "express strong disapproval or contempt for",
+   "a feeling or display of contempt or disdain"
+  ]
+ },
+ {
+  "word": "subordinate",
+  "group": 18,
+  "senses": [
+   "having a lower rank; less important",
+   "treat as of less value or importance",
+   "a person who is under or less important than another"
+  ]
+ },
+ {
+  "word": "unseemly",
+  "group": 18,
+  "senses": [
+   "not proper or in good taste"
+  ]
+ },
+ {
+  "word": "veritable",
+  "group": 18,
+  "senses": [
+   "(used to emphasize something) true; genuine"
+  ]
+ },
+ {
+  "word": "acolyte",
+  "group": 19,
+  "senses": [
+   "a person who assists or follows another person or cause"
+  ]
+ },
+ {
+  "word": "anoint",
+  "group": 19,
+  "senses": [
+   "appoint or designate for a particular role or purpose"
+  ]
+ },
+ {
+  "word": "base",
+  "group": 19,
+  "senses": [
+   "lacking principles; morally wrong"
+  ]
+ },
+ {
+  "word": "coercion",
+  "group": 19,
+  "senses": [
+   "the act of persuading or forcing someone to do something using threats or violence"
+  ]
+ },
+ {
+  "word": "coin",
+  "group": 19,
+  "senses": [
+   "invent or devise a new word or phrase"
+  ]
+ },
+ {
+  "word": "cunning",
+  "group": 19,
+  "senses": [
+   "showing skill in achieving one's ends through deceit or evasion"
+  ]
+ },
+ {
+  "word": "discomfit",
+  "group": 19,
+  "senses": [
+   "make someone feel uneasy or embarrassed"
+  ]
+ },
+ {
+  "word": "dissent",
+  "group": 19,
+  "senses": [
+   "hold or express an opinion that varies from a prevailing or official position",
+   "difference of opinion or disagreement"
+  ]
+ },
+ {
+  "word": "distill",
+  "group": 19,
+  "senses": [
+   "extract the most important information from something"
+  ]
+ },
+ {
+  "word": "dubious",
+  "group": 19,
+  "senses": [
+   "(of a person's feeling) suspicious of",
+   "(of a thing or concept) not to be relied upon"
+  ]
+ },
+ {
+  "word": "ebullient",
+  "group": 19,
+  "senses": [
+   "cheerful and joyful"
+  ]
+ },
+ {
+  "word": "facetious",
+  "group": 19,
+  "senses": [
+   "treating serious issues with inappropriate humor"
+  ]
+ },
+ {
+  "word": "fallible",
+  "group": 19,
+  "senses": [
+   "capable of making an error"
+  ]
+ },
+ {
+  "word": "florid",
+  "group": 19,
+  "senses": [
+   "excessively complicated; including too many details"
+  ]
+ },
+ {
+  "word": "gawky",
+  "group": 19,
+  "senses": [
+   "awkward or clumsy"
+  ]
+ },
+ {
+  "word": "inveigle",
+  "group": 19,
+  "senses": [
+   "persuade someone to do something using flattery or deception"
+  ]
+ },
+ {
+  "word": "jettison",
+  "group": 19,
+  "senses": [
+   "abandon or discard (something that is no longer needed)"
+  ]
+ },
+ {
+  "word": "mendacity",
+  "group": 19,
+  "senses": [
+   "dishonesty"
+  ]
+ },
+ {
+  "word": "munificent",
+  "group": 19,
+  "senses": [
+   "more generous than is usual or necessary"
+  ]
+ },
+ {
+  "word": "naive",
+  "group": 19,
+  "senses": [
+   "showing a lack of experience or judgment"
+  ]
+ },
+ {
+  "word": "noble",
+  "group": 19,
+  "senses": [
+   "having high moral qualities or principles"
+  ]
+ },
+ {
+  "word": "parochial",
+  "group": 19,
+  "senses": [
+   "having a limited perspective; narrow-minded"
+  ]
+ },
+ {
+  "word": "pedestrian",
+  "group": 19,
+  "senses": [
+   "lacking imagination or excitement; ordinary"
+  ]
+ },
+ {
+  "word": "prevaricate",
+  "group": 19,
+  "senses": [
+   "evade or dodge the truth by being evasive"
+  ]
+ },
+ {
+  "word": "prime",
+  "group": 19,
+  "senses": [
+   "prepare something for use or action",
+   "of primary importance; major"
+  ]
+ },
+ {
+  "word": "radical",
+  "group": 19,
+  "senses": [
+   "far-reaching; major",
+   "a person advocating thorough or complete social or political reform"
+  ]
+ },
+ {
+  "word": "recrudescent",
+  "group": 19,
+  "senses": [
+   "breaking out again; reviving"
+  ]
+ },
+ {
+  "word": "temporal",
+  "group": 19,
+  "senses": [
+   "relating to time",
+   "relating to worldly rather than spiritual matters"
+  ]
+ },
+ {
+  "word": "transitory",
+  "group": 19,
+  "senses": [
+   "not permanent; temporary"
+  ]
+ },
+ {
+  "word": "viable",
+  "group": 19,
+  "senses": [
+   "capable of working or succeeding; feasible"
+  ]
+ },
+ {
+  "word": "abreast",
+  "group": 20,
+  "senses": [
+   "informed or familiar about a particular topic"
+  ]
+ },
+ {
+  "word": "confound",
+  "group": 20,
+  "senses": [
+   "perplex or puzzle someone"
+  ]
+ },
+ {
+  "word": "digression",
+  "group": 20,
+  "senses": [
+   "an aside that strays from the main subject"
+  ]
+ },
+ {
+  "word": "discrepancy",
+  "group": 20,
+  "senses": [
+   "a difference between two or more things that should be the same"
+  ]
+ },
+ {
+  "word": "duplicitous",
+  "group": 20,
+  "senses": [
+   "deceptive in speech or action"
+  ]
+ },
+ {
+  "word": "expedient",
+  "group": 20,
+  "senses": [
+   "affording short-term benefits, often at the expense of the long-term"
+  ]
+ },
+ {
+  "word": "fabricate",
+  "group": 20,
+  "senses": [
+   "invent in order to deceive"
+  ]
+ },
+ {
+  "word": "glum",
+  "group": 20,
+  "senses": [
+   "appearing or feeling sad or despondent"
+  ]
+ },
+ {
+  "word": "harbinger",
+  "group": 20,
+  "senses": [
+   "a person or thing that foreshadows or foretells the coming of someone or something"
+  ]
+ },
+ {
+  "word": "intrinsic",
+  "group": 20,
+  "senses": [
+   "belonging to the essential nature of a thing"
+  ]
+ },
+ {
+  "word": "largesse",
+  "group": 20,
+  "senses": [
+   "the trait of being willing to donate money or resources; generosity"
+  ]
+ },
+ {
+  "word": "libertine",
+  "group": 20,
+  "senses": [
+   "someone loose in morals; a pleasure-seeker"
+  ]
+ },
+ {
+  "word": "malfeasance",
+  "group": 20,
+  "senses": [
+   "wrongdoing or misconduct, especially by a public official"
+  ]
+ },
+ {
+  "word": "manifest",
+  "group": 20,
+  "senses": [
+   "be revealed; show plainly",
+   "obvious; not obscure or hidden"
+  ]
+ },
+ {
+  "word": "minute",
+  "group": 20,
+  "senses": [
+   "very small"
+  ]
+ },
+ {
+  "word": "modish",
+  "group": 20,
+  "senses": [
+   "in the current fashion or style"
+  ]
+ },
+ {
+  "word": "nascent",
+  "group": 20,
+  "senses": [
+   "in the process of emerging, being born, or starting to develop"
+  ]
+ },
+ {
+  "word": "perennial",
+  "group": 20,
+  "senses": [
+   "lasting or remaining active throughout the year, or all the time"
+  ]
+ },
+ {
+  "word": "pious",
+  "group": 20,
+  "senses": [
+   "deeply devout; exhibiting religious devotion",
+   "making a show of one's own virtue"
+  ]
+ },
+ {
+  "word": "providential",
+  "group": 20,
+  "senses": [
+   "happening at a fortunate or opportune time"
+  ]
+ },
+ {
+  "word": "prowess",
+  "group": 20,
+  "senses": [
+   "skillfulness and dexterity"
+  ]
+ },
+ {
+  "word": "schism",
+  "group": 20,
+  "senses": [
+   "a split or separation within a group or organization"
+  ]
+ },
+ {
+  "word": "slander",
+  "group": 20,
+  "senses": [
+   "baselessly speak ill of someone or something"
+  ]
+ },
+ {
+  "word": "stalwart",
+  "group": 20,
+  "senses": [
+   "determined; staunch"
+  ]
+ },
+ {
+  "word": "supplicate",
+  "group": 20,
+  "senses": [
+   "make a humble request; beg or beseech"
+  ]
+ },
+ {
+  "word": "terse",
+  "group": 20,
+  "senses": [
+   "brief and to the point"
+  ]
+ },
+ {
+  "word": "tirade",
+  "group": 20,
+  "senses": [
+   "a prolonged, vehement speech or criticism"
+  ]
+ },
+ {
+  "word": "universal",
+  "group": 20,
+  "senses": [
+   "applicable or common to all purposes, conditions, or situations"
+  ]
+ },
+ {
+  "word": "vanquish",
+  "group": 20,
+  "senses": [
+   "defeat completely"
+  ]
+ },
+ {
+  "word": "woeful",
+  "group": 20,
+  "senses": [
+   "very sad",
+   "very bad; awful"
+  ]
+ },
+ {
+  "word": "abject",
+  "group": 21,
+  "senses": [
+   "most unfortunate or miserable"
+  ]
+ },
+ {
+  "word": "amicable",
+  "group": 21,
+  "senses": [
+   "characterized by goodwill and friendliness"
+  ]
+ },
+ {
+  "word": "animosity",
+  "group": 21,
+  "senses": [
+   "strong hostility or resentment"
+  ]
+ },
+ {
+  "word": "aver",
+  "group": 21,
+  "senses": [
+   "assert with confidence"
+  ]
+ },
+ {
+  "word": "barrage",
+  "group": 21,
+  "senses": [
+   "an overwhelming concentration of something, typically hostile words"
+  ]
+ },
+ {
+  "word": "cathartic",
+  "group": 21,
+  "senses": [
+   "that which releases emotional tension"
+  ]
+ },
+ {
+  "word": "decipher",
+  "group": 21,
+  "senses": [
+   "decode or determine the meaning of something that is difficult to understand"
+  ]
+ },
+ {
+  "word": "delusion",
+  "group": 21,
+  "senses": [
+   "a belief that is not true or is founded on false premises"
+  ]
+ },
+ {
+  "word": "dispense",
+  "group": 21,
+  "senses": [
+   "issue, distribute, or give out",
+   "do without or get rid of"
+  ]
+ },
+ {
+  "word": "eloquent",
+  "group": 21,
+  "senses": [
+   "fluently persuasive and articulate"
+  ]
+ },
+ {
+  "word": "enthrall",
+  "group": 21,
+  "senses": [
+   "captivate or charm"
+  ]
+ },
+ {
+  "word": "eradicate",
+  "group": 21,
+  "senses": [
+   "eliminate or destroy completely"
+  ]
+ },
+ {
+  "word": "fledgling",
+  "group": 21,
+  "senses": [
+   "untried or inexperienced; emergent or rising"
+  ]
+ },
+ {
+  "word": "fortitude",
+  "group": 21,
+  "senses": [
+   "mental strength and courage that allows one to face challenges"
+  ]
+ },
+ {
+  "word": "fortuitous",
+  "group": 21,
+  "senses": [
+   "happening by chance, especially a lucky chance"
+  ]
+ },
+ {
+  "word": "goad",
+  "group": 21,
+  "senses": [
+   "incite or provoke"
+  ]
+ },
+ {
+  "word": "imminent",
+  "group": 21,
+  "senses": [
+   "about to happen soon"
+  ]
+ },
+ {
+  "word": "incontrovertible",
+  "group": 21,
+  "senses": [
+   "undeniable; impossible to dispute"
+  ]
+ },
+ {
+  "word": "itinerant",
+  "group": 21,
+  "senses": [
+   "habitually traveling from place to place"
+  ]
+ },
+ {
+  "word": "magnanimous",
+  "group": 21,
+  "senses": [
+   "noble and generous in spirit"
+  ]
+ },
+ {
+  "word": "meritorious",
+  "group": 21,
+  "senses": [
+   "deserving of merit or commendation; deserving reward"
+  ]
+ },
+ {
+  "word": "mutiny",
+  "group": 21,
+  "senses": [
+   "a rebellion against authority; violent strife"
+  ]
+ },
+ {
+  "word": "paradoxical",
+  "group": 21,
+  "senses": [
+   "seemingly contradictory but nonetheless possibly true"
+  ]
+ },
+ {
+  "word": "perseverance",
+  "group": 21,
+  "senses": [
+   "persistence in an action or belief despite difficulties or opposition"
+  ]
+ },
+ {
+  "word": "render",
+  "group": 21,
+  "senses": [
+   "make or provide"
+  ]
+ },
+ {
+  "word": "repertoire",
+  "group": 21,
+  "senses": [
+   "the collection of skills, methods, or performances that one is ready to use"
+  ]
+ },
+ {
+  "word": "resilient",
+  "group": 21,
+  "senses": [
+   "able to recover quickly from difficult situations"
+  ]
+ },
+ {
+  "word": "resolute",
+  "group": 21,
+  "senses": [
+   "firmly determined or unwavering"
+  ]
+ },
+ {
+  "word": "supple",
+  "group": 21,
+  "senses": [
+   "pliant, flexible, or easy to bend"
+  ]
+ },
+ {
+  "word": "valor",
+  "group": 21,
+  "senses": [
+   "strength of mind in the face of danger; bravery"
+  ]
+ },
+ {
+  "word": "arresting",
+  "group": 22,
+  "senses": [
+   "attracting attention or striking"
+  ]
+ },
+ {
+  "word": "chastise",
+  "group": 22,
+  "senses": [
+   "criticize harshly"
+  ]
+ },
+ {
+  "word": "cumbersome",
+  "group": 22,
+  "senses": [
+   "large, heavy, slow or complicated"
+  ]
+ },
+ {
+  "word": "economy",
+  "group": 22,
+  "senses": [
+   "frugal or effective use of resources or words"
+  ]
+ },
+ {
+  "word": "elementary",
+  "group": 22,
+  "senses": [
+   "basic and fundamental"
+  ]
+ },
+ {
+  "word": "embellish",
+  "group": 22,
+  "senses": [
+   "make more beautiful or attractive by adding ornamentation",
+   "making something sound or look better than it is in reality"
+  ]
+ },
+ {
+  "word": "euphoric",
+  "group": 22,
+  "senses": [
+   "intensely happy or excited"
+  ]
+ },
+ {
+  "word": "exonerate",
+  "group": 22,
+  "senses": [
+   "clear from accusation or blame"
+  ]
+ },
+ {
+  "word": "extrapolate",
+  "group": 22,
+  "senses": [
+   "predict by projecting past experience or data"
+  ]
+ },
+ {
+  "word": "falter",
+  "group": 22,
+  "senses": [
+   "weaken or waver, especially in the face of difficulty; hesitate"
+  ]
+ },
+ {
+  "word": "fervent",
+  "group": 22,
+  "senses": [
+   "exhibiting enthusiasm and zeal"
+  ]
+ },
+ {
+  "word": "foment",
+  "group": 22,
+  "senses": [
+   "incite or cause troublesome acts; encourage"
+  ]
+ },
+ {
+  "word": "gaffe",
+  "group": 22,
+  "senses": [
+   "a foolish and embarrassing error, especially a public one"
+  ]
+ },
+ {
+  "word": "heterodox",
+  "group": 22,
+  "senses": [
+   "deviating from what is acceptable or commonly believed"
+  ]
+ },
+ {
+  "word": "histrionic",
+  "group": 22,
+  "senses": [
+   "overly dramatic or emotional"
+  ]
+ },
+ {
+  "word": "implicit",
+  "group": 22,
+  "senses": [
+   "suggested though not directly expressed"
+  ]
+ },
+ {
+  "word": "inviolate",
+  "group": 22,
+  "senses": [
+   "not violated; free from hurt of any kind"
+  ]
+ },
+ {
+  "word": "liability",
+  "group": 22,
+  "senses": [
+   "something or someone that creates a risk or disadvantage"
+  ]
+ },
+ {
+  "word": "obstinate",
+  "group": 22,
+  "senses": [
+   "stubbornly adhering to an opinion, purpose, or cause"
+  ]
+ },
+ {
+  "word": "painstaking",
+  "group": 22,
+  "senses": [
+   "done with careful attention to detail"
+  ]
+ },
+ {
+  "word": "phlegmatic",
+  "group": 22,
+  "senses": [
+   "calm and unemotional disposition"
+  ]
+ },
+ {
+  "word": "prodigious",
+  "group": 22,
+  "senses": [
+   "impressively large in size or extent"
+  ]
+ },
+ {
+  "word": "propensity",
+  "group": 22,
+  "senses": [
+   "an inclination or tendency to behave or think in a certain way"
+  ]
+ },
+ {
+  "word": "qualm",
+  "group": 22,
+  "senses": [
+   "a feeling of apprehension or doubt"
+  ]
+ },
+ {
+  "word": "renege",
+  "group": 22,
+  "senses": [
+   "fail to fulfill a promise or obligation"
+  ]
+ },
+ {
+  "word": "stint",
+  "group": 22,
+  "senses": [
+   "supply an insufficient amount of something"
+  ]
+ },
+ {
+  "word": "temper",
+  "group": 22,
+  "senses": [
+   "to moderate or neutralize something"
+  ]
+ },
+ {
+  "word": "tentative",
+  "group": 22,
+  "senses": [
+   "uncertain; subject to future change"
+  ]
+ },
+ {
+  "word": "unprecedented",
+  "group": 22,
+  "senses": [
+   "never before seen, done or experienced"
+  ]
+ },
+ {
+  "word": "vivacious",
+  "group": 22,
+  "senses": [
+   "lively and animated in spirit"
+  ]
+ },
+ {
+  "word": "allusive",
+  "group": 23,
+  "senses": [
+   "making indirect references or hints"
+  ]
+ },
+ {
+  "word": "astute",
+  "group": 23,
+  "senses": [
+   "having the ability to notice and understand things clearly"
+  ]
+ },
+ {
+  "word": "commence",
+  "group": 23,
+  "senses": [
+   "begin or start"
+  ]
+ },
+ {
+  "word": "convalescent",
+  "group": 23,
+  "senses": [
+   "recovering from illness or treatment"
+  ]
+ },
+ {
+  "word": "curb",
+  "group": 23,
+  "senses": [
+   "restrict or control"
+  ]
+ },
+ {
+  "word": "decry",
+  "group": 23,
+  "senses": [
+   "publicly criticize or condemn"
+  ]
+ },
+ {
+  "word": "duress",
+  "group": 23,
+  "senses": [
+   "compulsion by threat or force"
+  ]
+ },
+ {
+  "word": "evoke",
+  "group": 23,
+  "senses": [
+   "bring to mind or produce a reaction"
+  ]
+ },
+ {
+  "word": "fawn",
+  "group": 23,
+  "senses": [
+   "display exaggerated affection or flattery, usually to gain favor"
+  ]
+ },
+ {
+  "word": "fret",
+  "group": 23,
+  "senses": [
+   "be constantly or visibly worried or anxious"
+  ]
+ },
+ {
+  "word": "glib",
+  "group": 23,
+  "senses": [
+   "fluent but insincere and shallow"
+  ]
+ },
+ {
+  "word": "headstrong",
+  "group": 23,
+  "senses": [
+   "determined to have one's own way; stubborn"
+  ]
+ },
+ {
+  "word": "intermittent",
+  "group": 23,
+  "senses": [
+   "occurring at irregular intervals; not continuous"
+  ]
+ },
+ {
+  "word": "ire",
+  "group": 23,
+  "senses": [
+   "anger or wrath"
+  ]
+ },
+ {
+  "word": "languid",
+  "group": 23,
+  "senses": [
+   "casual and relaxed; slow",
+   "weak from disease or weariness"
+  ]
+ },
+ {
+  "word": "lull",
+  "group": 23,
+  "senses": [
+   "weak from disease or weariness",
+   "a brief pause or delay in activity"
+  ]
+ },
+ {
+  "word": "mettlesome",
+  "group": 23,
+  "senses": [
+   "spirited and brave"
+  ]
+ },
+ {
+  "word": "mollify",
+  "group": 23,
+  "senses": [
+   "calm or reduce the anger or anxiety of someone"
+  ]
+ },
+ {
+  "word": "neutralize",
+  "group": 23,
+  "senses": [
+   "counteract or cancel the effect of something"
+  ]
+ },
+ {
+  "word": "nonplussed",
+  "group": 23,
+  "senses": [
+   "unsure about what to say or do; confused"
+  ]
+ },
+ {
+  "word": "precipitous",
+  "group": 23,
+  "senses": [
+   "extremely steep",
+   "(of an action) done quickly and without care"
+  ]
+ },
+ {
+  "word": "pretentious",
+  "group": 23,
+  "senses": [
+   "attempting to impress by affecting greater importance than is actually possessed"
+  ]
+ },
+ {
+  "word": "profound",
+  "group": 23,
+  "senses": [
+   "(of a person or idea) having deep insight or knowledge"
+  ]
+ },
+ {
+  "word": "propagate",
+  "group": 23,
+  "senses": [
+   "spread or promote widely"
+  ]
+ },
+ {
+  "word": "recourse",
+  "group": 23,
+  "senses": [
+   "a source of help or strategies used in a difficult situation"
+  ]
+ },
+ {
+  "word": "refute",
+  "group": 23,
+  "senses": [
+   "prove to be wrong or false"
+  ]
+ },
+ {
+  "word": "regress",
+  "group": 23,
+  "senses": [
+   "prove to be wrong or false"
+  ]
+ },
+ {
+  "word": "repercussion",
+  "group": 23,
+  "senses": [
+   "an unintended consequence of an event or action"
+  ]
+ },
+ {
+  "word": "replenish",
+  "group": 23,
+  "senses": [
+   "fill something up again"
+  ]
+ },
+ {
+  "word": "vigilant",
+  "group": 23,
+  "senses": [
+   "keeping careful watch for dangers or difficulties"
+  ]
+ },
+ {
+  "word": "assail",
+  "group": 24,
+  "senses": [
+   "attack physically or verbally"
+  ]
+ },
+ {
+  "word": "benevolent",
+  "group": 24,
+  "senses": [
+   "showing kindness or goodwill"
+  ]
+ },
+ {
+  "word": "berate",
+  "group": 24,
+  "senses": [
+   "scold or criticize harshly"
+  ]
+ },
+ {
+  "word": "buoyant",
+  "group": 24,
+  "senses": [
+   "lighthearted and lively; having a cheerful attitude"
+  ]
+ },
+ {
+  "word": "buttress",
+  "group": 24,
+  "senses": [
+   "support or reinforce"
+  ]
+ },
+ {
+  "word": "condone",
+  "group": 24,
+  "senses": [
+   "forgive, excuse, or overlook"
+  ]
+ },
+ {
+  "word": "contravene",
+  "group": 24,
+  "senses": [
+   "go against or violate a rule, law, or convention"
+  ]
+ },
+ {
+  "word": "denounce",
+  "group": 24,
+  "senses": [
+   "criticize or speak out against"
+  ]
+ },
+ {
+  "word": "despotic",
+  "group": 24,
+  "senses": [
+   "of a ruler with absolute power; tyrannical"
+  ]
+ },
+ {
+  "word": "deviate",
+  "group": 24,
+  "senses": [
+   "go off course from; stray from some norm"
+  ]
+ },
+ {
+  "word": "disinterested",
+  "group": 24,
+  "senses": [
+   "unbiased"
+  ]
+ },
+ {
+  "word": "escalate",
+  "group": 24,
+  "senses": [
+   "increase or intensify"
+  ]
+ },
+ {
+  "word": "exorcize",
+  "group": 24,
+  "senses": [
+   "drive out (such as an evil spirit or some other thing) from a person, place, or thing"
+  ]
+ },
+ {
+  "word": "finicky",
+  "group": 24,
+  "senses": [
+   "fussy or hard to please"
+  ]
+ },
+ {
+  "word": "foil",
+  "group": 24,
+  "senses": [
+   "prevent (something) from being accomplished"
+  ]
+ },
+ {
+  "word": "intertwined",
+  "group": 24,
+  "senses": [
+   "twisted or linked closely together"
+  ]
+ },
+ {
+  "word": "inundate",
+  "group": 24,
+  "senses": [
+   "flood or overwhelm"
+  ]
+ },
+ {
+  "word": "ironclad",
+  "group": 24,
+  "senses": [
+   "unbreakable or extremely strong"
+  ]
+ },
+ {
+  "word": "jeopardize",
+  "group": 24,
+  "senses": [
+   "put in danger; threaten"
+  ]
+ },
+ {
+  "word": "mercurial",
+  "group": 24,
+  "senses": [
+   "having a volatile character; fickle"
+  ]
+ },
+ {
+  "word": "oblivious",
+  "group": 24,
+  "senses": [
+   "not aware of or not noticing something"
+  ]
+ },
+ {
+  "word": "perpetrate",
+  "group": 24,
+  "senses": [
+   "commit something (often a crime); carry out"
+  ]
+ },
+ {
+  "word": "plaintive",
+  "group": 24,
+  "senses": [
+   "expressing sorrow or melancholy"
+  ]
+ },
+ {
+  "word": "poignant",
+  "group": 24,
+  "senses": [
+   "emotionally moving"
+  ]
+ },
+ {
+  "word": "quiescent",
+  "group": 24,
+  "senses": [
+   "being at rest; inactive or quiet"
+  ]
+ },
+ {
+  "word": "reiterate",
+  "group": 24,
+  "senses": [
+   "say or do again, multiple times"
+  ]
+ },
+ {
+  "word": "subside",
+  "group": 24,
+  "senses": [
+   "become lower; decrease; become less intense"
+  ]
+ },
+ {
+  "word": "subsume",
+  "group": 24,
+  "senses": [
+   "include or contain something else"
+  ]
+ },
+ {
+  "word": "surmount",
+  "group": 24,
+  "senses": [
+   "overcome something, typically a challenge"
+  ]
+ },
+ {
+  "word": "tangential",
+  "group": 24,
+  "senses": [
+   "only superficially relevant"
+  ]
+ },
+ {
+  "word": "adept",
+  "group": 25,
+  "senses": [
+   "well skilled; completely versed"
+  ]
+ },
+ {
+  "word": "adverse",
+  "group": 25,
+  "senses": [
+   "unfavorable or opposed to one's interests or desire"
+  ]
+ },
+ {
+  "word": "appropriate",
+  "group": 25,
+  "senses": [
+   "take something forcefully, usually without the owner's agreement",
+   "suitable or fit for a situation"
+  ]
+ },
+ {
+  "word": "archetype",
+  "group": 25,
+  "senses": [
+   "a typical example of something"
+  ]
+ },
+ {
+  "word": "articulate",
+  "group": 25,
+  "senses": [
+   "able to express ideas or feelings fluently and clearly"
+  ]
+ },
+ {
+  "word": "auspicious",
+  "group": 25,
+  "senses": [
+   "favorable and indicative of good luck"
+  ]
+ },
+ {
+  "word": "bereft",
+  "group": 25,
+  "senses": [
+   "lacking or mourning something or someone"
+  ]
+ },
+ {
+  "word": "captious",
+  "group": 25,
+  "senses": [
+   "fault-finding (especially petty ones)"
+  ]
+ },
+ {
+  "word": "conclusive",
+  "group": 25,
+  "senses": [
+   "without doubt"
+  ]
+ },
+ {
+  "word": "conspire",
+  "group": 25,
+  "senses": [
+   "secretly work together for something bad"
+  ]
+ },
+ {
+  "word": "delineate",
+  "group": 25,
+  "senses": [
+   "describe or depict precisely; outline"
+  ]
+ },
+ {
+  "word": "disentangle",
+  "group": 25,
+  "senses": [
+   "free from entanglement or confusion; make clear"
+  ]
+ },
+ {
+  "word": "exhort",
+  "group": 25,
+  "senses": [
+   "strongly persuade, encourage, or urge"
+  ]
+ },
+ {
+  "word": "frailty",
+  "group": 25,
+  "senses": [
+   "quality or state of being weak; weakness"
+  ]
+ },
+ {
+  "word": "grievance",
+  "group": 25,
+  "senses": [
+   "an issue or problem"
+  ]
+ },
+ {
+  "word": "harangue",
+  "group": 25,
+  "senses": [
+   "a long angry rant"
+  ]
+ },
+ {
+  "word": "ploy",
+  "group": 25,
+  "senses": [
+   "a strategy or tactic used to gain an advantage"
+  ]
+ },
+ {
+  "word": "poise",
+  "group": 25,
+  "senses": [
+   "a state of balance, equilibrium or stability"
+  ]
+ },
+ {
+  "word": "pomposity",
+  "group": 25,
+  "senses": [
+   "the quality of being pompous; self-importance"
+  ]
+ },
+ {
+  "word": "proxy",
+  "group": 25,
+  "senses": [
+   "a substitute (usually for a person) that is compatible"
+  ]
+ },
+ {
+  "word": "relent",
+  "group": 25,
+  "senses": [
+   "abandon a harsh intention or attitude by giving in",
+   "reduce in intensity"
+  ]
+ },
+ {
+  "word": "rhetoric",
+  "group": 25,
+  "senses": [
+   "persuasive speech or writing"
+  ]
+ },
+ {
+  "word": "rigor",
+  "group": 25,
+  "senses": [
+   "thoroughness and strictness"
+  ]
+ },
+ {
+  "word": "sparse",
+  "group": 25,
+  "senses": [
+   "not dense and meager; having widely spaced intervals"
+  ]
+ },
+ {
+  "word": "steadfast",
+  "group": 25,
+  "senses": [
+   "fixed or unchanging; steady"
+  ]
+ },
+ {
+  "word": "suspect",
+  "group": 25,
+  "senses": [
+   "viewed with suspicion"
+  ]
+ },
+ {
+  "word": "tedious",
+  "group": 25,
+  "senses": [
+   "boring and slow, without variety"
+  ]
+ },
+ {
+  "word": "vitality",
+  "group": 25,
+  "senses": [
+   "strength and energy"
+  ]
+ },
+ {
+  "word": "whimsical",
+  "group": 25,
+  "senses": [
+   "playful or silly",
+   "unpredictable"
+  ]
+ },
+ {
+  "word": "yield",
+  "group": 25,
+  "senses": [
+   "produce or generate a result, product, or amount",
+   "give up or surrender"
+  ]
+ },
+ {
+  "word": "apprehension",
+  "group": 26,
+  "senses": [
+   "fearful anticipation or worry"
+  ]
+ },
+ {
+  "word": "ardent",
+  "group": 26,
+  "senses": [
+   "full of passion and enthusiasm"
+  ]
+ },
+ {
+  "word": "axiomatic",
+  "group": 26,
+  "senses": [
+   "evident without proof or argument; self-evident"
+  ]
+ },
+ {
+  "word": "cease",
+  "group": 26,
+  "senses": [
+   "to stop happening or continuing"
+  ]
+ },
+ {
+  "word": "conducive",
+  "group": 26,
+  "senses": [
+   "helping to bring about or promote a particular outcome"
+  ]
+ },
+ {
+  "word": "corporeal",
+  "group": 26,
+  "senses": [
+   "associated with the physical body, not the spirit or soul"
+  ]
+ },
+ {
+  "word": "doctrinaire",
+  "group": 26,
+  "senses": [
+   "rigidly sticking to theoretical ideas, rather than being practical"
+  ]
+ },
+ {
+  "word": "eclectic",
+  "group": 26,
+  "senses": [
+   "derived from a diverse range of sources or styles"
+  ]
+ },
+ {
+  "word": "equanimity",
+  "group": 26,
+  "senses": [
+   "evenness of mind, especially under stress"
+  ]
+ },
+ {
+  "word": "exorbitant",
+  "group": 26,
+  "senses": [
+   "going far beyond what is fair, reasonable, or expected"
+  ]
+ },
+ {
+  "word": "fickle",
+  "group": 26,
+  "senses": [
+   "quick to change one’s opinion or allegiance"
+  ]
+ },
+ {
+  "word": "figurative",
+  "group": 26,
+  "senses": [
+   "symbolic rather than literal"
+  ]
+ },
+ {
+  "word": "flustered",
+  "group": 26,
+  "senses": [
+   "agitated or confused"
+  ]
+ },
+ {
+  "word": "gullible",
+  "group": 26,
+  "senses": [
+   "easily deceived or tricked"
+  ]
+ },
+ {
+  "word": "idiosyncratic",
+  "group": 26,
+  "senses": [
+   "peculiar to an individual or group; unique"
+  ]
+ },
+ {
+  "word": "incidental",
+  "group": 26,
+  "senses": [
+   "secondary or non-essential part of something"
+  ]
+ },
+ {
+  "word": "ingrained",
+  "group": 26,
+  "senses": [
+   "deeply rooted or established"
+  ]
+ },
+ {
+  "word": "insolent",
+  "group": 26,
+  "senses": [
+   "boldly disrespectful or rude"
+  ]
+ },
+ {
+  "word": "lampoon",
+  "group": 26,
+  "senses": [
+   "satirize or poke fun at"
+  ]
+ },
+ {
+  "word": "lavish",
+  "group": 26,
+  "senses": [
+   "extravagant, luxurious, or abundant",
+   "give out extremely generously"
+  ]
+ },
+ {
+  "word": "lugubrious",
+  "group": 26,
+  "senses": [
+   "appearing sad or gloomy"
+  ]
+ },
+ {
+  "word": "macabre",
+  "group": 26,
+  "senses": [
+   "having a quality of horror or grimness"
+  ]
+ },
+ {
+  "word": "morose",
+  "group": 26,
+  "senses": [
+   "sullen and gloomy"
+  ]
+ },
+ {
+  "word": "officious",
+  "group": 26,
+  "senses": [
+   "overbearingly assertive, especially in offering unwanted advice or help"
+  ]
+ },
+ {
+  "word": "ramification",
+  "group": 26,
+  "senses": [
+   "a consequence or resulting action of a previous event"
+  ]
+ },
+ {
+  "word": "serene",
+  "group": 26,
+  "senses": [
+   "calm, quiet, and peaceful"
+  ]
+ },
+ {
+  "word": "supplant",
+  "group": 26,
+  "senses": [
+   "replace or take the place of"
+  ]
+ },
+ {
+  "word": "tacit",
+  "group": 26,
+  "senses": [
+   "implied without being directly expressed"
+  ]
+ },
+ {
+  "word": "transcend",
+  "group": 26,
+  "senses": [
+   "pass beyond the limits of something"
+  ]
+ },
+ {
+  "word": "treatise",
+  "group": 26,
+  "senses": [
+   "a written work that provides a systematic and detailed examination of a subject"
+  ]
+ },
+ {
+  "word": "antagonize",
+  "group": 27,
+  "senses": [
+   "act in opposition to or provoke hostility from"
+  ]
+ },
+ {
+  "word": "barren",
+  "group": 27,
+  "senses": [
+   "incapable of producing offspring or fruit; unproductive"
+  ]
+ },
+ {
+  "word": "bombastic",
+  "group": 27,
+  "senses": [
+   "high-sounding but with little meaning; overfilled"
+  ]
+ },
+ {
+  "word": "cajole",
+  "group": 27,
+  "senses": [
+   "persuade through flattery or gentle urging"
+  ]
+ },
+ {
+  "word": "chary",
+  "group": 27,
+  "senses": [
+   "being wary or cautiously reluctant"
+  ]
+ },
+ {
+  "word": "curmudgeon",
+  "group": 27,
+  "senses": [
+   "an ill-tempered person full of stubborn opinions"
+  ]
+ },
+ {
+  "word": "dirge",
+  "group": 27,
+  "senses": [
+   "a mournful song, especially for a funeral or mourning"
+  ]
+ },
+ {
+  "word": "estimable",
+  "group": 27,
+  "senses": [
+   "deserving of respect or admiration"
+  ]
+ },
+ {
+  "word": "euphemism",
+  "group": 27,
+  "senses": [
+   "a mild or polite term used to substitute a harsh or offensive one"
+  ]
+ },
+ {
+  "word": "excoriate",
+  "group": 27,
+  "senses": [
+   "criticize strongly; condemn"
+  ]
+ },
+ {
+  "word": "exigent",
+  "group": 27,
+  "senses": [
+   "requiring immediate action or aid; urgent"
+  ]
+ },
+ {
+  "word": "haughty",
+  "group": 27,
+  "senses": [
+   "exhibiting arrogant and condescending pride"
+  ]
+ },
+ {
+  "word": "heady",
+  "group": 27,
+  "senses": [
+   "intoxicating or stupefying"
+  ]
+ },
+ {
+  "word": "imperturbable",
+  "group": 27,
+  "senses": [
+   "not easily annoyed, upset, or excited; calm"
+  ]
+ },
+ {
+  "word": "implacable",
+  "group": 27,
+  "senses": [
+   "not able to be appeased"
+  ]
+ },
+ {
+  "word": "lambaste",
+  "group": 27,
+  "senses": [
+   "scold, reprimand, or criticize harshly"
+  ]
+ },
+ {
+  "word": "miscreant",
+  "group": 27,
+  "senses": [
+   "one who has behaved badly, or illegally"
+  ]
+ },
+ {
+  "word": "peccadillo",
+  "group": 27,
+  "senses": [
+   "a small flaw or sin"
+  ]
+ },
+ {
+  "word": "philistine",
+  "group": 27,
+  "senses": [
+   "a person who is ignorant or uneducated"
+  ]
+ },
+ {
+  "word": "relegate",
+  "group": 27,
+  "senses": [
+   "consign to a place or position of insignificance, lower rank, or inferiority"
+  ]
+ },
+ {
+  "word": "repugnant",
+  "group": 27,
+  "senses": [
+   "offensive or repulsive; arousing disgust or aversion"
+  ]
+ },
+ {
+  "word": "sentimental",
+  "group": 27,
+  "senses": [
+   "characterized by feelings or nostalgia"
+  ]
+ },
+ {
+  "word": "squander",
+  "group": 27,
+  "senses": [
+   "spend profusely or recklessly"
+  ]
+ },
+ {
+  "word": "swindle",
+  "group": 27,
+  "senses": [
+   "obtain money by fraudulent or deceitful methods"
+  ]
+ },
+ {
+  "word": "tangible",
+  "group": 27,
+  "senses": [
+   "capable of being touched; real or actual"
+  ]
+ },
+ {
+  "word": "turpitude",
+  "group": 27,
+  "senses": [
+   "wickedness or moral corruption"
+  ]
+ },
+ {
+  "word": "unalloyed",
+  "group": 27,
+  "senses": [
+   "pure; without any adulterations"
+  ]
+ },
+ {
+  "word": "undercut",
+  "group": 27,
+  "senses": [
+   "undermine; weaken"
+  ]
+ },
+ {
+  "word": "wheedle",
+  "group": 27,
+  "senses": [
+   "attempt to persuade by flattery"
+  ]
+ },
+ {
+  "word": "xenophobic",
+  "group": 27,
+  "senses": [
+   "showing a fear or hatred of strangers or foreigners"
+  ]
+ },
+ {
+  "word": "abeyance",
+  "group": 28,
+  "senses": [
+   "suspension; temporary suppression"
+  ]
+ },
+ {
+  "word": "abstract",
+  "group": 28,
+  "senses": [
+   "present in thought or concept but lacking physical existence",
+   "removing something or considering something separate"
+  ]
+ },
+ {
+  "word": "affront",
+  "group": 28,
+  "senses": [
+   "an open or intentional offense, slight, or insult"
+  ]
+ },
+ {
+  "word": "agitate",
+  "group": 28,
+  "senses": [
+   "make someone disturbed or excited"
+  ]
+ },
+ {
+  "word": "august",
+  "group": 28,
+  "senses": [
+   "noble and respected; awe-inspiring"
+  ]
+ },
+ {
+  "word": "burnish",
+  "group": 28,
+  "senses": [
+   "improve or enhance"
+  ]
+ },
+ {
+  "word": "coy",
+  "group": 28,
+  "senses": [
+   "being bashful, shy, or retiring"
+  ]
+ },
+ {
+  "word": "deprecate",
+  "group": 28,
+  "senses": [
+   "belittle or express disapproval of"
+  ]
+ },
+ {
+  "word": "disdain",
+  "group": 28,
+  "senses": [
+   "the state of being despised; shame"
+  ]
+ },
+ {
+  "word": "disperse",
+  "group": 28,
+  "senses": [
+   "scatter in different directions"
+  ]
+ },
+ {
+  "word": "distend",
+  "group": 28,
+  "senses": [
+   "extend or expand, as from internal pressure; swell"
+  ]
+ },
+ {
+  "word": "endemic",
+  "group": 28,
+  "senses": [
+   "regularly found and restricted to a particular area or population"
+  ]
+ },
+ {
+  "word": "enmity",
+  "group": 28,
+  "senses": [
+   "the quality of being an enemy; hostility"
+  ]
+ },
+ {
+  "word": "gauche",
+  "group": 28,
+  "senses": [
+   "awkward or lacking in social graces"
+  ]
+ },
+ {
+  "word": "hysterical",
+  "group": 28,
+  "senses": [
+   "wildly emotional or exaggerated in reaction"
+  ]
+ },
+ {
+  "word": "impudent",
+  "group": 28,
+  "senses": [
+   "not showing due respect; bold-faced, impertinent"
+  ]
+ },
+ {
+  "word": "inchoate",
+  "group": 28,
+  "senses": [
+   "recently started but not fully formed yet"
+  ]
+ },
+ {
+  "word": "penchant",
+  "group": 28,
+  "senses": [
+   "taste, liking, or inclination"
+  ]
+ },
+ {
+  "word": "quandary",
+  "group": 28,
+  "senses": [
+   "a dilemma; a difficult decision or situation"
+  ]
+ },
+ {
+  "word": "quarantine",
+  "group": 28,
+  "senses": [
+   "place into isolation to prevent the spread of any contagious disease"
+  ]
+ },
+ {
+  "word": "quash",
+  "group": 28,
+  "senses": [
+   "void or suppress"
+  ]
+ },
+ {
+  "word": "quibble",
+  "group": 28,
+  "senses": [
+   "complain or argue in a trivial or petty manner"
+  ]
+ },
+ {
+  "word": "ravage",
+  "group": 28,
+  "senses": [
+   "devastate, destroy, or lay waste to something"
+  ]
+ },
+ {
+  "word": "recant",
+  "group": 28,
+  "senses": [
+   "withdraw or repudiate a statement or opinion formerly expressed, especially formally and publicly"
+  ]
+ },
+ {
+  "word": "redoubtable",
+  "group": 28,
+  "senses": [
+   "eliciting respect or fear; notably formidable"
+  ]
+ },
+ {
+  "word": "retiring",
+  "group": 28,
+  "senses": [
+   "introverted and shy; liking privacy"
+  ]
+ },
+ {
+  "word": "shrill",
+  "group": 28,
+  "senses": [
+   "high-pitched and piercing in sound quality"
+  ]
+ },
+ {
+  "word": "sophistry",
+  "group": 28,
+  "senses": [
+   "plausible yet fallacious argumentations or reasoning"
+  ]
+ },
+ {
+  "word": "substantiate",
+  "group": 28,
+  "senses": [
+   "verify something by supplying evidence"
+  ]
+ },
+ {
+  "word": "wily",
+  "group": 28,
+  "senses": [
+   "sly, cunning, full of tricks"
+  ]
+ },
+ {
+  "word": "abscond",
+  "group": 29,
+  "senses": [
+   "leave hurriedly and secretly, typically to avoid capture"
+  ]
+ },
+ {
+  "word": "apogee",
+  "group": 29,
+  "senses": [
+   "the peak or highest point of something"
+  ]
+ },
+ {
+  "word": "aspersion",
+  "group": 29,
+  "senses": [
+   "a critical or damaging remark or criticism"
+  ]
+ },
+ {
+  "word": "bawdy",
+  "group": 29,
+  "senses": [
+   "humorously dealing with sexual subjects; risqué in a comedic way"
+  ]
+ },
+ {
+  "word": "chagrin",
+  "group": 29,
+  "senses": [
+   "a feeling of frustration, annoyance, or anger"
+  ]
+ },
+ {
+  "word": "collude",
+  "group": 29,
+  "senses": [
+   "secretly cooperate for deceitful or fraudulent purposes"
+  ]
+ },
+ {
+  "word": "commiserate",
+  "group": 29,
+  "senses": [
+   "express sympathy or sorrow with someone who has experienced misfortune"
+  ]
+ },
+ {
+  "word": "conflagration",
+  "group": 29,
+  "senses": [
+   "a large, destructive fire"
+  ]
+ },
+ {
+  "word": "contretemps",
+  "group": 29,
+  "senses": [
+   "a small disagreement or mishap"
+  ]
+ },
+ {
+  "word": "conviction",
+  "group": 29,
+  "senses": [
+   "a strong belief or principle held with confidence"
+  ]
+ },
+ {
+  "word": "croon",
+  "group": 29,
+  "senses": [
+   "sing softly, typically in a sentimental manner"
+  ]
+ },
+ {
+  "word": "depose",
+  "group": 29,
+  "senses": [
+   "forcibly remove someone from office or power"
+  ]
+ },
+ {
+  "word": "detente",
+  "group": 29,
+  "senses": [
+   "a period of improved relations between countries, especially when tensions have been high"
+  ]
+ },
+ {
+  "word": "dowdy",
+  "group": 29,
+  "senses": [
+   "lacking style or elegance; out of fashion"
+  ]
+ },
+ {
+  "word": "echelon",
+  "group": 29,
+  "senses": [
+   "a level or tier within a system or organization"
+  ]
+ },
+ {
+  "word": "ennui",
+  "group": 29,
+  "senses": [
+   "a feeling of boredom and dissatisfaction due to a lack of excitement or interest"
+  ]
+ },
+ {
+  "word": "expatiate",
+  "group": 29,
+  "senses": [
+   "talk or write in great detail about a topic"
+  ]
+ },
+ {
+  "word": "fraught",
+  "group": 29,
+  "senses": [
+   "filled with tension, stress, or negative emotions"
+  ]
+ },
+ {
+  "word": "fulcrum",
+  "group": 29,
+  "senses": [
+   "the main factor or element that plays a pivotal role in a situation"
+  ]
+ },
+ {
+  "word": "imbroglio",
+  "group": 29,
+  "senses": [
+   "a complex and confusing situation, often of a messy or controversial nature"
+  ]
+ },
+ {
+  "word": "jocund",
+  "group": 29,
+  "senses": [
+   "merry and in high spirits; exhibiting happiness"
+  ]
+ },
+ {
+  "word": "languish",
+  "group": 29,
+  "senses": [
+   "become weak or feeble, often from neglect or lack of attention"
+  ]
+ },
+ {
+  "word": "nadir",
+  "group": 29,
+  "senses": [
+   "the absolute lowest point or worst moment"
+  ]
+ },
+ {
+  "word": "nimble",
+  "group": 29,
+  "senses": [
+   "quick and agile in movement or thinking"
+  ]
+ },
+ {
+  "word": "ominous",
+  "group": 29,
+  "senses": [
+   "indicating that something unfavorable is likely to happen"
+  ]
+ },
+ {
+  "word": "outlandish",
+  "group": 29,
+  "senses": [
+   "strange, unusual, or bizarre in appearance or style"
+  ]
+ },
+ {
+  "word": "propitious",
+  "group": 29,
+  "senses": [
+   "favorable; advantageous"
+  ]
+ },
+ {
+  "word": "prurient",
+  "group": 29,
+  "senses": [
+   "displaying or prompting an undue interest in sexual matters"
+  ]
+ },
+ {
+  "word": "sadistic",
+  "group": 29,
+  "senses": [
+   "taking pleasure in causing pain or suffering to others"
+  ]
+ },
+ {
+  "word": "zenith",
+  "group": 29,
+  "senses": [
+   "the point at which something attains its maximum strength or power"
+  ]
+ },
+ {
+  "word": "aberrant",
+  "group": 30,
+  "senses": [
+   "deviating from what is normal or expected"
+  ]
+ },
+ {
+  "word": "abide",
+  "group": 30,
+  "senses": [
+   "tolerate, follow, or accept"
+  ]
+ },
+ {
+  "word": "bravado",
+  "group": 30,
+  "senses": [
+   "a display of boldness or confidence, often feigned"
+  ]
+ },
+ {
+  "word": "callow",
+  "group": 30,
+  "senses": [
+   "young and inexperienced; immature"
+  ]
+ },
+ {
+  "word": "capitulate",
+  "group": 30,
+  "senses": [
+   "surrender or give up resistance"
+  ]
+ },
+ {
+  "word": "cogitate",
+  "group": 30,
+  "senses": [
+   "think deeply; ponder or reflect"
+  ]
+ },
+ {
+  "word": "deportment",
+  "group": 30,
+  "senses": [
+   "behavior or manners"
+  ]
+ },
+ {
+  "word": "extemporize",
+  "group": 30,
+  "senses": [
+   "improvise, especially in speech or performance"
+  ]
+ },
+ {
+  "word": "factious",
+  "group": 30,
+  "senses": [
+   "causing division or disagreement"
+  ]
+ },
+ {
+  "word": "fallow",
+  "group": 30,
+  "senses": [
+   "(of farmland) not cultivated; barren",
+   "(of a period of time) inactive"
+  ]
+ },
+ {
+  "word": "feint",
+  "group": 30,
+  "senses": [
+   "a deceptive movement or action"
+  ]
+ },
+ {
+  "word": "flagrant",
+  "group": 30,
+  "senses": [
+   "noticeably offensive; blatant"
+  ]
+ },
+ {
+  "word": "gratuitous",
+  "group": 30,
+  "senses": [
+   "unwarranted; without justification"
+  ]
+ },
+ {
+  "word": "grovel",
+  "group": 30,
+  "senses": [
+   "show submission or fear; beg for favor"
+  ]
+ },
+ {
+  "word": "indecorous",
+  "group": 30,
+  "senses": [
+   "not in good taste; inappropriate or unseemly"
+  ]
+ },
+ {
+  "word": "intrigue",
+  "group": 30,
+  "senses": [
+   "a secret scheme or plot",
+   "provoke interest in"
+  ]
+ },
+ {
+  "word": "nominal",
+  "group": 30,
+  "senses": [
+   "in name only",
+   "insubstantial; insignificant"
+  ]
+ },
+ {
+  "word": "obdurate",
+  "group": 30,
+  "senses": [
+   "stubborn; unyielding"
+  ]
+ },
+ {
+  "word": "obstreperous",
+  "group": 30,
+  "senses": [
+   "noisy, unruly, or hard to control"
+  ]
+ },
+ {
+  "word": "odious",
+  "group": 30,
+  "senses": [
+   "highly offensive; repugnant"
+  ]
+ },
+ {
+  "word": "plucky",
+  "group": 30,
+  "senses": [
+   "showing courage or determination"
+  ]
+ },
+ {
+  "word": "precocious",
+  "group": 30,
+  "senses": [
+   "showing advanced skills or development earlier than usual"
+  ]
+ },
+ {
+  "word": "remuneration",
+  "group": 30,
+  "senses": [
+   "payment or compensation for services or work"
+  ]
+ },
+ {
+  "word": "slovenly",
+  "group": 30,
+  "senses": [
+   "untidy, especially in personal appearance",
+   "without care; neglectful"
+  ]
+ },
+ {
+  "word": "soliloquy",
+  "group": 30,
+  "senses": [
+   "a speech in a drama where a character talks to themselves, expressing inner thoughts"
+  ]
+ },
+ {
+  "word": "spurn",
+  "group": 30,
+  "senses": [
+   "reject or refuse disdainfully"
+  ]
+ },
+ {
+  "word": "stolid",
+  "group": 30,
+  "senses": [
+   "not easily moved or emotional"
+  ]
+ },
+ {
+  "word": "temerity",
+  "group": 30,
+  "senses": [
+   "reckless boldness or audacity"
+  ]
+ },
+ {
+  "word": "tenuous",
+  "group": 30,
+  "senses": [
+   "thin or weak"
+  ]
+ },
+ {
+  "word": "verve",
+  "group": 30,
+  "senses": [
+   "energy, enthusiasm, or vigor"
+  ]
+ },
+ {
+  "word": "abrogate",
+  "group": 31,
+  "senses": [
+   "formally cancel or do away with"
+  ]
+ },
+ {
+  "word": "aghast",
+  "group": 31,
+  "senses": [
+   "shocked or horrified; struck with amazement"
+  ]
+ },
+ {
+  "word": "apprise",
+  "group": 31,
+  "senses": [
+   "inform, notify, or advise"
+  ]
+ },
+ {
+  "word": "beguile",
+  "group": 31,
+  "senses": [
+   "charm or deceive in a captivating way"
+  ]
+ },
+ {
+  "word": "boon",
+  "group": 31,
+  "senses": [
+   "a good thing; a blessing or a benefit"
+  ]
+ },
+ {
+  "word": "callous",
+  "group": 31,
+  "senses": [
+   "emotionally unfeeling or insensitive"
+  ]
+ },
+ {
+  "word": "coddle",
+  "group": 31,
+  "senses": [
+   "pamper or treat with excessive care"
+  ]
+ },
+ {
+  "word": "crescendo",
+  "group": 31,
+  "senses": [
+   "the loudest or highest point of something"
+  ]
+ },
+ {
+  "word": "extenuating",
+  "group": 31,
+  "senses": [
+   "lessening the seriousness by providing excuses"
+  ]
+ },
+ {
+  "word": "frenetic",
+  "group": 31,
+  "senses": [
+   "fast-paced or wildly energetic"
+  ]
+ },
+ {
+  "word": "fringe",
+  "group": 31,
+  "senses": [
+   "unconventional, extreme, or marginal"
+  ]
+ },
+ {
+  "word": "hapless",
+  "group": 31,
+  "senses": [
+   "unlucky or unfortunate"
+  ]
+ },
+ {
+  "word": "immaculate",
+  "group": 31,
+  "senses": [
+   "spotlessly clean or free from errors"
+  ]
+ },
+ {
+  "word": "obfuscate",
+  "group": 31,
+  "senses": [
+   "obscure or confuse"
+  ]
+ },
+ {
+  "word": "ossify",
+  "group": 31,
+  "senses": [
+   "harden or become unchanging"
+  ]
+ },
+ {
+  "word": "pastiche",
+  "group": 31,
+  "senses": [
+   "a work that either imitates the style of multiple other works or combines elements from various works"
+  ]
+ },
+ {
+  "word": "perspicacious",
+  "group": 31,
+  "senses": [
+   "keenly perceptive or understanding"
+  ]
+ },
+ {
+  "word": "ponderous",
+  "group": 31,
+  "senses": [
+   "heavy or slow-moving, often due to weight; extremely dull"
+  ]
+ },
+ {
+  "word": "recluse",
+  "group": 31,
+  "senses": [
+   "a person who lives in self-imposed isolation"
+  ]
+ },
+ {
+  "word": "retaliate",
+  "group": 31,
+  "senses": [
+   "take revenge or counteract"
+  ]
+ },
+ {
+  "word": "rhapsody",
+  "group": 31,
+  "senses": [
+   "an ecstatic expression of feeling or enthusiasm"
+  ]
+ },
+ {
+  "word": "serendipitous",
+  "group": 31,
+  "senses": [
+   "occurring by chance in a fortunate way"
+  ]
+ },
+ {
+  "word": "shirk",
+  "group": 31,
+  "senses": [
+   "avoid or neglect a responsibility or duty"
+  ]
+ },
+ {
+  "word": "sinecure",
+  "group": 31,
+  "senses": [
+   "a job requiring minimal effort but offering a salary"
+  ]
+ },
+ {
+  "word": "sinuous",
+  "group": 31,
+  "senses": [
+   "winding or having many smooth turns"
+  ]
+ },
+ {
+  "word": "sordid",
+  "group": 31,
+  "senses": [
+   "involving ignoble actions and motives"
+  ]
+ },
+ {
+  "word": "stanch",
+  "group": 31,
+  "senses": [
+   "stop or reduce the flow of"
+  ]
+ },
+ {
+  "word": "surfeit",
+  "group": 31,
+  "senses": [
+   "an excessive amount of something"
+  ]
+ },
+ {
+  "word": "ulterior",
+  "group": 31,
+  "senses": [
+   "concealed, typically with a hidden motive"
+  ]
+ },
+ {
+  "word": "voluble",
+  "group": 31,
+  "senses": [
+   "speaking a lot, with great ease, often about unimportant matters"
+  ]
+ },
+ {
+  "word": "abstruse",
+  "group": 32,
+  "senses": [
+   "difficult to comprehend or understand"
+  ]
+ },
+ {
+  "word": "auxiliary",
+  "group": 32,
+  "senses": [
+   "supplementary or additional, often in support"
+  ]
+ },
+ {
+  "word": "caricature",
+  "group": 32,
+  "senses": [
+   "exaggerate features for comedic or satirical effect"
+  ]
+ },
+ {
+  "word": "depravity",
+  "group": 32,
+  "senses": [
+   "the state or condition of being depraved or morally corrupted"
+  ]
+ },
+ {
+  "word": "dilettante",
+  "group": 32,
+  "senses": [
+   "a person with an amateur interest in the arts or a particular field"
+  ]
+ },
+ {
+  "word": "effrontery",
+  "group": 32,
+  "senses": [
+   "insolent or bold behavior"
+  ]
+ },
+ {
+  "word": "encroach",
+  "group": 32,
+  "senses": [
+   "intrude or trespass, especially on another's territory or rights"
+  ]
+ },
+ {
+  "word": "endow",
+  "group": 32,
+  "senses": [
+   "enrich or furnish with some faculty or quality"
+  ]
+ },
+ {
+  "word": "entreat",
+  "group": 32,
+  "senses": [
+   "ask earnestly or anxiously; beg"
+  ]
+ },
+ {
+  "word": "gregarious",
+  "group": 32,
+  "senses": [
+   "sociable and enjoying the company of others"
+  ]
+ },
+ {
+  "word": "indictment",
+  "group": 32,
+  "senses": [
+   "an official formal accusation for a criminal offense"
+  ]
+ },
+ {
+  "word": "indignant",
+  "group": 32,
+  "senses": [
+   "feeling or expressing strong displeasure at something unjust or offensive"
+  ]
+ },
+ {
+  "word": "ineluctable",
+  "group": 32,
+  "senses": [
+   "inescapable or inevitable"
+  ]
+ },
+ {
+  "word": "inquisitive",
+  "group": 32,
+  "senses": [
+   "curious or eager to acquire knowledge"
+  ]
+ },
+ {
+  "word": "latitude",
+  "group": 32,
+  "senses": [
+   "scope to do something; relative freedom from restrictions"
+  ]
+ },
+ {
+  "word": "levity",
+  "group": 32,
+  "senses": [
+   "humor or lightness, especially when inappropriate"
+  ]
+ },
+ {
+  "word": "malevolent",
+  "group": 32,
+  "senses": [
+   "showing ill will or wishing harm to others"
+  ]
+ },
+ {
+  "word": "mediate",
+  "group": 32,
+  "senses": [
+   "intervene between parties to bring about a resolution"
+  ]
+ },
+ {
+  "word": "occlude",
+  "group": 32,
+  "senses": [
+   "block or stop up; cover"
+  ]
+ },
+ {
+  "word": "pacify",
+  "group": 32,
+  "senses": [
+   "bring peace to or calm someone down"
+  ]
+ },
+ {
+  "word": "paragon",
+  "group": 32,
+  "senses": [
+   "a model of excellence or perfection"
+  ]
+ },
+ {
+  "word": "patronize",
+  "group": 32,
+  "senses": [
+   "treat with an apparent kindness that is condescending",
+   "be a regular customer of a store or other establishment"
+  ]
+ },
+ {
+  "word": "penurious",
+  "group": 32,
+  "senses": [
+   "extremely poor or stingy"
+  ]
+ },
+ {
+  "word": "piquant",
+  "group": 32,
+  "senses": [
+   "stimulating to the senses; engaging; charming"
+  ]
+ },
+ {
+  "word": "rampant",
+  "group": 32,
+  "senses": [
+   "unrestrained or unchecked, usually in a negative manner"
+  ]
+ },
+ {
+  "word": "remote",
+  "group": 32,
+  "senses": [
+   "not likely to happen"
+  ]
+ },
+ {
+  "word": "reprobate",
+  "group": 32,
+  "senses": [
+   "a person who is immoral or who lacks principles"
+  ]
+ },
+ {
+  "word": "turbid",
+  "group": 32,
+  "senses": [
+   "(of water) muddy or opaque due to suspended particles",
+   "unclear; confused; obscure"
+  ]
+ },
+ {
+  "word": "turgid",
+  "group": 32,
+  "senses": [
+   "swollen or bloated",
+   "overly complex and difficult to understand"
+  ]
+ },
+ {
+  "word": "vacuous",
+  "group": 32,
+  "senses": [
+   "lacking intelligence or thought"
+  ]
+ }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "grevocab",
+  "private": true,
+  "description": "GRE vocabulary trainer: flashcards and close-meaning quizzes with spaced repetition.",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "test": "node --test tests/*.test.js",
+    "serve": "npx http-server docs -p 8080 -c-1"
+  }
+}

@@ -1,0 +1,259 @@
+# word | tags | example sentence | memory hook
+# Tags are "domain.leaf". Words sharing a full tag are treated as synonyms;
+# words sharing only the domain are near-meaning traps used as distractors.
+
+## Group 1
+abound | amount.abundant | Wildflowers abound in the valley each spring, carpeting every hillside. | ABOUND sounds like "a bound(less)" supply: so much it overflows.
+amorphous | clear.vague | The committee's plan remained amorphous, with no clear goals or deadlines. | A-MORPH-ous: no (a-) shape (morph), like a blob.
+austere | generous.frugal, rude.stern | The monk's austere cell held only a cot and a single candle. | AUSTERE sounds like "a stern" person living with nothing.
+belie | deceive.misleading | His calm smile belied the panic he felt inside. | BE-LIE: the surface tells a LIE about what's underneath.
+capricious | change.fickle | The capricious manager changed the deadline three times in one week. | CAPRI-cious: like a goat (capra) leaping randomly from rock to rock.
+cerebral | skill.learned | Her cerebral novels favor ideas over action and emotion. | CEREBRum is the brain: a cerebral person lives in their head.
+congenial | friendly.friendly | The congenial host made every guest feel like an old friend. | CON-GENIAL: genial (friendly) with (con) everyone.
+conspicuous | reveal.obvious | In a room of black suits, his yellow jacket was conspicuous. | CONSPICuous: you can't help but SPY it.
+cursory | care.careless | A cursory glance at the contract missed the hidden fees. | CURSORy: like a CURSOR flicking quickly over the text.
+daunting | difficulty.hard | Writing a 300-page thesis seemed daunting at first. | DAUNTING sounds like "haunting": scary to face.
+deify | judge.worship | Fans tend to deify their favorite athletes, ignoring their flaws. | DEI-fy: make into a DEIty (god).
+didactic | teach.teach | The film was so didactic that it felt like a lecture rather than a story. | DIDACTIC: "did act" like a teacher, preachy.
+disseminate | spread.spread | The health agency disseminated pamphlets to every school. | DIS-SEMIN-ate: scatter SEEDS (semen = seed) in every direction.
+feasible | difficulty.feasible | With more funding, the bridge project became feasible. | FEASIBLE: "FEASt-able": doable, you can actually eat it.
+flout | reject.disobey | Drivers who flout the speed limit risk heavy fines. | FLOUT the rules openly (vs FLAUNT = show off).
+homogeneous | same.similar | The town's population was strikingly homogeneous, with nearly everyone sharing the same background. | HOMO (same) + GENE: all of the same kind.
+humdrum | dull.boring | He longed to escape his humdrum routine of commuting and spreadsheets. | HUM-DRUM: a monotonous hum and a steady drum.
+insipid | dull.boring | The critics found the sequel insipid, lacking the original's wit. | IN-SIP-id: you take a sip and taste nothing.
+loquacious | talk.wordy | The loquacious tour guide never stopped talking, even on the bus. | LOQU = speak (eloquent): a loquacious person speaks loads.
+misanthropic | mind.prejudiced | After years of betrayal, he grew misanthropic and avoided all company. | MIS (hate) + ANTHROP (human): hates humankind.
+misnomer | deceive.misleading | "Guinea pig" is a misnomer, since the animal is neither a pig nor from Guinea. | MIS-NOMER: a mistaken NOMEnclature (name).
+negligent | care.careless | The negligent landlord ignored the broken smoke alarm for months. | NEGLIGENT: someone who NEGLECTS duties.
+obsequious | submit.flatter | The obsequious waiter bowed and agreed with everything the critic said. | OB-SEQUI-ous: always following (sequi) behind the boss.
+placate | calm.soothe | She placated the angry customer with a refund and an apology. | PLACATE: put a PLACATing plate of cookies in front of someone angry.
+proclivity | like.tendency | His proclivity for risky bets eventually cost him his savings. | PRO-CLIVITY: leaning toward (a slope, "clivus") something.
+puerile | naive.immature | The comedian's puerile jokes appealed mostly to teenagers. | PUER is Latin for "boy": boyish, childish.
+quixotic | difficulty.futile | His quixotic plan to end world hunger by himself was admirable but unrealistic. | Don QUIXOTE tilted at windmills: idealistic and impractical.
+spendthrift | generous.wasteful | The spendthrift heir burned through his fortune in two years. | SPEND-THRIFT: spends away all thrift (savings).
+taciturn | talk.quiet | The taciturn farmer answered every question with a single word. | TACIT (silent) + TURN: never takes a turn to talk.
+wary | care.cautious | Wary of scams, she refused to share her bank details over the phone. | WARY = beWARE.
+
+## Group 2
+adulterate | support.undermine | The supplier adulterated the olive oil with cheaper vegetable oils. | ADULTERATE: like adultery, it makes something impure.
+advocate | support.support | She advocates for stricter environmental laws. | AD-VOC-ate: give voice (voc) to a cause.
+aggrandize | arrogant.selfpromote | The dictator built statues everywhere to aggrandize himself. | AG-GRAND-ize: make yourself GRANDer.
+alacrity | energy.eager | She accepted the job offer with alacrity, replying within minutes. | ALACRITY: "a lack of reluctance": quick eagerness.
+ambivalent | doubt.torn | He felt ambivalent about moving: excited by the job, sad to leave friends. | AMBI (both, as in ambidextrous) + VALENT: pulled both ways.
+ameliorate | harm.improve | New policies helped ameliorate conditions in the overcrowded prison. | AMELIORATE: from Latin "melior" = better; make better.
+amenable | change.malleable | The board was amenable to the proposal once costs were reduced. | AMENABLE: says "AMEN" to suggestions, open and agreeable.
+anachronistic | time.old | A wristwatch in a film about ancient Rome is anachronistic. | ANA (against) + CHRON (time): out of its time.
+audacious | brave.reckless | Her audacious plan to climb Everest solo stunned the experts. | AUDACIOUS: from "audacity", bold enough to dare anything.
+avaricious | generous.greedy | The avaricious landlord raised rents every few months. | AVARICIOUS sounds like "have-a-rice-ious": wants all the rice.
+banal | dull.cliche | The speech was full of banal phrases like "follow your dreams." | BANAL sounds like "bland-al": stale and common.
+benign | harm.harmless | Luckily, the tumor was benign and posed no threat. | BENE = good (benefit): gentle and harmless.
+brazen | rude.rude | In a brazen move, the thief waved at the security camera. | BRAZEN: as hard and shameless as BRASS.
+calumny | judge.slander | The politician's rivals spread calumny to ruin his reputation. | CALUMNY sounds like "column-y": a gossip column full of lies.
+candid | deceive.honest | In a candid interview, she admitted she had made mistakes. | CANDID camera: catches you as you truly are, unfiltered.
+castigate | judge.criticize | The coach castigated the team for their lazy performance. | CASTIGATE: verbally CAST them out with harsh words.
+caustic | hostile.harsh | Her caustic remarks left the intern close to tears. | CAUSTIC soda burns: so do caustic words.
+construe | think.interpret | His silence was construed as agreement. | CONSTRUE = CONSTRUct a meaning yourself; interpret.
+contrite | mood.regret | The contrite student apologized sincerely for cheating. | CONTRITE: sounds like "can't right" what you did, so you feel sorry.
+convoluted | clear.complex | The convoluted instructions confused even the experts. | CONVOLUTED: as twisted as a coiled VOLUTE (spiral).
+covet | generous.greedy | He coveted his neighbor's sports car. | COVET: COVETous eyes want what others have.
+craven | brave.cowardly | The craven soldier deserted at the first sign of battle. | CRAVEN sounds like "a raven" that flies away at any noise.
+decorum | rude.proper | The judge demanded decorum in the courtroom. | DECORUM: proper DECOR for behavior.
+deft | skill.skilled | With a few deft strokes, the artist sketched a perfect portrait. | DEFT is the opposite of DAFT: clever with the hands.
+demur | doubt.doubtful | When asked to work the weekend, she politely demurred. | DEMUR = "de-murmur": murmur objections (vs demure = shy).
+derivative | dull.cliche | Critics dismissed the album as derivative of 1980s pop. | DERIVATIVE: DERIVED from someone else, not original.
+desiccate | change.dry | The desert sun desiccated the fallen leaves. | DESICCATE: "de-sick" of water; dried out (think desiccated coconut).
+diatribe | judge.rant | The editorial was a diatribe against the new tax. | DIA-TRIBE: one angry speaker ranting at a whole TRIBE.
+incredulous | doubt.doubtful | She was incredulous when told she'd won the lottery. | IN-CRED-ulous: not (in) believing (cred).
+ingenuous | naive.naive | The ingenuous child believed every story he was told. | INGENUOUS = innocent and genuine (vs INGENIOUS = clever).
+
+## Group 3
+abate | amount.decrease | The storm abated by morning, leaving calm seas. | ABATE: the storm takes A BATh and calms down.
+abjure | reject.renounce | He abjured his former political beliefs after the scandal. | AB (away) + JURE (swear): swear off.
+anomalous | odd.strange | The anomalous test result forced scientists to recheck their data. | A-NOMALOUS: not (a-) normal (nomos = law).
+antipathy | hostile.hatred | She had a deep antipathy toward bullies. | ANTI (against) + PATHY (feeling): feeling against.
+arcane | clear.obscure | The lawyer explained the arcane rules of maritime law. | ARCANE: hidden in an ARK, known only to a few.
+arduous | difficulty.hard | The arduous climb took nine hours. | ARDUOUS: HARD-uous.
+artless | naive.naive | Her artless honesty charmed everyone at the party. | ART-LESS: without artifice or trickery; simple.
+ascetic | generous.frugal | The ascetic hermit lived on bread and water. | ASCETIC: a monk who ASKs for nothing.
+assuage | calm.soothe | A warm meal assuaged his hunger and his bad mood. | ASSUAGE: "a-SWEET-age": sweetens pain away.
+betray | reveal.reveal | His trembling hands betrayed his nervousness. | BETRAY your feelings: they leak out without permission.
+bucolic | place.rural | They retired to a bucolic village with sheep and stone cottages. | BUCOLIC: sounds like "cows and colic", the farm life.
+burgeon | amount.grow | The city's tech industry has burgeoned over the past decade. | BURGEON: like a BURGER chain multiplying everywhere.
+cacophonous | noise.loud | The cacophonous traffic made it impossible to think. | CACO (bad) + PHON (sound): bad noise.
+canonize | judge.worship | The public canonized the firefighters as heroes. | CANONIZE: officially made a saint by the church.
+censure | judge.criticize | The senator was censured for misusing funds. | CENSURE: CENSOR + PRESSURE = official scolding.
+chicanery | deceive.deceive | The election was marred by chicanery and vote-buying. | CHICANERY: a CHICANE is a tricky twist in a racetrack.
+coalesce | join.combine | Several small protests coalesced into a national movement. | COALESCE: like COALs clumping together into one fire.
+cogent | persuade.persuasive | She made a cogent argument that convinced the jury. | COGENT: every COG fits, so the argument works.
+compelling | persuade.persuasive | The documentary presented compelling evidence of fraud. | COMPELLING: it COMPELS you to believe or pay attention.
+contend | conflict.argue | Scientists contend that the climate is warming rapidly. | CONTEND: CONTEsting in an argument.
+copious | amount.abundant | She took copious notes during the lecture. | COPIOUS: COPY-ous amounts, lots of copies.
+cosmopolitan | mind.worldly | New York is a cosmopolitan city with residents from every nation. | COSMO (world) + POLIS (city): a city of the world.
+deference | judge.worship | Out of deference to her age, they let her speak first. | DEFERENCE: you DEFER (yield) to someone you respect.
+desultory | care.careless | They made desultory conversation while waiting for the bus. | DESULTORY: a Roman DESULTOR jumped aimlessly from horse to horse.
+diffident | shy.shy | The diffident student rarely raised his hand. | DIF-FIDENT: lacks confidence (fid = faith in oneself).
+dilatory | energy.slow | The lawyer's dilatory tactics delayed the trial for months. | DILATORY = DELAY-tory.
+equivocate | talk.evasive | When asked about the scandal, the minister equivocated. | EQUI (equal) + VOC (voice): speaks equally for both sides to avoid a stance.
+polarize | conflict.divide | The debate polarized the town into two camps. | POLARIZE: push people to opposite POLES.
+prodigal | generous.wasteful | The prodigal son wasted his inheritance on parties. | PRODIGAL son in the Bible: wasted everything, then came home.
+verbose | talk.wordy | The verbose report could have been half as long. | VERB-ose: too many VERBs/words.
+
+## Group 4
+abstain | reject.avoid | She abstained from voting because of a conflict of interest. | AB-STAIN: stay away so you don't get stained.
+approbation | judge.praise | The proposal won the approbation of the committee. | APPROBATION = APPROVAL.
+cherish | like.love | He cherished every letter his grandmother wrote him. | CHERISH: hold dear like a CHERry on top.
+corroborate | support.support | Video footage corroborated the witness's account. | CO-ROBORATE: adds strength (robur = oak, strength) to a claim.
+disparate | same.different | The book weaves together disparate stories into one theme. | DISPARATE: DIS-PARity, unequal and different.
+emulate | same.imitate | Young players often emulate their heroes' playing styles. | EMULATE: an EMULATOR imitates another system.
+enervate | energy.weaken | The heat enervated the hikers, sapping their strength. | ENERVATE = take out the NERVE (energy); NOT "energize".
+ephemeral | time.brief | Fame on social media is often ephemeral. | EPHEMERAL: like a mayfly (ephemera) that lives one day.
+fervid | energy.eager | Her fervid supporters chanted her name for an hour. | FERVID: FEVER-ishly passionate.
+garrulous | talk.wordy | The garrulous neighbor kept us talking for an hour. | GARRULOUS: GARgling words nonstop.
+incendiary | conflict.controversial | His incendiary speech sparked riots. | INCENDIARY bomb: sets things on fire.
+inimical | harm.harmful | Excessive regulation is inimical to innovation. | INIMICAL: like an ENEMY to something.
+intimate | reveal.imply | She intimated that she might resign soon. | INTIMATE: hint at something, like an intimate whisper.
+invigorate | energy.invigorate | A cold shower invigorated him before the exam. | IN-VIGOR-ate: put VIGOR in.
+mitigate | calm.relieve | Sandbags helped mitigate the flood damage. | MITIGATE: a MITT softens the blow.
+obsolete | time.old | Typewriters became obsolete with personal computers. | OBSOLETE: "absolutely OLD".
+opaque | clear.obscure | The contract's opaque language confused everyone. | OPAQUE glass: you can't see through it.
+paradigmatic | odd.normal | Her career is paradigmatic of the self-made entrepreneur. | PARADIGM = model; paradigmatic = textbook example.
+pedantic | care.fussy | The pedantic professor corrected every comma in the email. | PEDANTIC: a PEDANT nitpicks tiny details.
+placid | calm.calm | The placid lake reflected the mountains perfectly. | PLACID: a PLACE that's quiet and still.
+polemical | conflict.controversial | His polemical essay attacked the entire education system. | POLEMIC: from Greek "polemos" = war; a war of words.
+precipitate | care.rash | The fall in prices precipitated a financial crisis. | PRECIPITATE: like PRECIPITATION, it suddenly pours down.
+profundity | skill.learned | The profundity of her insights amazed the audience. | PROFUNDITY: PROFOUND depth of wisdom.
+prophetic | future.predict | His warnings about the market crash proved prophetic. | PROPHETIC: like a PROPHET who foretells.
+prudent | care.cautious | It's prudent to save money for emergencies. | PRUDENT: PRUDE-ent, careful and sensible.
+punctilious | care.fussy | The punctilious butler checked that every fork was aligned. | PUNCTILIOUS: PUNCTUAL and precise about every point.
+recondite | clear.obscure | The lecture on quantum topology was too recondite for most. | RECONDITE: RE-CONcealed, hidden knowledge.
+scrupulous | care.careful | The scrupulous accountant double-checked every figure. | SCRUPULOUS: has SCRUPLES, careful and honest.
+tranquil | calm.calm | The garden offered a tranquil escape from the city. | TRANQUIL: like a TRANQUILizer, calming.
+vacillate | change.waver | She vacillated between law school and medical school. | VACILLATE: VAC-illate, oscillating back and forth.
+
+## Group 5
+aloof | friendly.aloof | The new manager seemed aloof, rarely chatting with staff. | ALOOF: A-LOFT, keeps above and apart from others.
+clangor | noise.loud | The clangor of the factory machines was deafening. | CLANGOR: CLANGing metal noise.
+conventional | odd.normal | She chose a conventional career in accounting. | CONVENTIONAL: follows the CONVENTIONS.
+debunk | reject.deny | The scientist debunked the myth that we use only 10% of our brains. | DE-BUNK: remove the BUNK (nonsense).
+diminutive | amount.small | The diminutive dancer was barely five feet tall. | DIMINUTIVE: DIMINISHED in size.
+discernible | reveal.obvious | There was no discernible difference between the two samples. | DISCERNIBLE: can be DISCERNED (detected).
+enigmatic | clear.obscure | Mona Lisa's enigmatic smile has puzzled viewers for centuries. | ENIGMATIC: like an ENIGMA, a riddle.
+estranged | join.separate | He was estranged from his father for twenty years. | ESTRANGED: made into STRANGERS.
+extravagant | generous.wasteful | The extravagant wedding cost more than their house. | EXTRA-VAGANT: wandering (vagant) beyond (extra) reasonable limits.
+fanciful | difficulty.futile | The novel's fanciful plot included talking dragons. | FANCIFUL: full of FANCY (imagination).
+frivolous | importance.trivial | The court dismissed the frivolous lawsuit. | FRIVOLOUS: FRIVOLITY, silly and not serious.
+heterogeneous | same.different | The class was heterogeneous, mixing ages and backgrounds. | HETERO (different) + GENE: of different kinds.
+imperious | arrogant.arrogant | The imperious queen expected instant obedience. | IMPERIOUS: acts like an EMPEROR.
+impertinent | rude.rude | It was impertinent of him to ask about her salary. | IM-PERTINENT: not pertinent and not polite.
+invasive | harm.harmful | Invasive species can destroy native ecosystems. | INVASIVE: INVADES privacy or territory.
+irresolute | change.waver | The irresolute leader couldn't decide whether to fight or flee. | IR-RESOLUTE: not resolute, lacking firm resolve.
+laudable | judge.praise | Her efforts to help the homeless are laudable. | LAUDABLE: worthy of LAUD (applause).
+lax | care.careless | Security at the airport was surprisingly lax. | LAX: relaxed rules, too loose.
+marginalize | importance.belittle | Minority voices are often marginalized in the media. | MARGINALIZE: push to the MARGINS.
+panache | show.showy | He wore his hat with panache. | PANACHE: a PAN of flair, stylish confidence.
+plodding | energy.slow | The plodding pace of the novel bored readers. | PLODDING: PLOD, heavy slow footsteps.
+prosaic | dull.boring | He described the sunset in prosaic terms: "it was orange." | PROSAIC: plain PROSE, not poetry.
+remedial | harm.healthy | The school offered remedial classes in math. | REMEDIAL: provides a REMEDY.
+restive | calm.agitated | The restive crowd began to push against the barriers. | RESTIVE: can't REST, restless.
+sporadic | time.intermittent | Sporadic gunfire was heard throughout the night. | SPORADIC: like SPORES, scattered here and there.
+stigmatize | judge.slander | Mental illness is often stigmatized. | STIGMA: a mark of shame.
+undermine | support.undermine | Constant criticism undermined her confidence. | UNDER-MINE: dig a mine under the foundation.
+utterly | amount.complete | The plan was utterly ridiculous. | UTTERLY: to the UTTERmost degree.
+weary | energy.tired | After the long hike, the weary travelers fell asleep instantly. | WEARY: WORN out.
+zealous | energy.eager | The zealous volunteer worked twelve hours a day. | ZEALOUS: full of ZEAL (passion).
+
+## Group 6
+admonish | judge.criticize | The teacher admonished the students for talking during the test. | AD-MONISH: a MONitor warns you.
+aesthetic | show.beauty | The building's aesthetic appeal attracts tourists. | AESTHETIC: about beauty (opposite of ANESTHETIC, which numbs the senses).
+affectation | deceive.pretend | His British accent was an affectation; he grew up in Ohio. | AFFECTATION: an AFFECTED (put-on) manner.
+alleviate | calm.relieve | The medicine alleviated her headache. | ALLEVIATE: makes it LIGHTER (levis = light).
+analogous | same.similar | The heart is analogous to a pump. | ANALOGOUS: like an ANALOGY, comparable.
+bolster | support.support | The new evidence bolstered her case. | BOLSTER: a bolster pillow props you up.
+chauvinistic | mind.prejudiced | His chauvinistic remarks about other countries offended the guests. | CHAUVINISTIC: from Nicolas Chauvin, a blindly patriotic soldier.
+connoisseur | skill.expert | A wine connoisseur can identify the vineyard by taste. | CONNOISSEUR: from French "connaître" = to know.
+dissemble | deceive.pretend | He dissembled his anger behind a polite smile. | DIS-SEMBLE: change your semblance (appearance) to hide feelings.
+dogged | change.persistent | Her dogged determination helped her finish the marathon. | DOGGED: like a DOG with a bone, won't let go.
+dupe | deceive.deceive | The con artist duped elderly victims out of their savings. | DUPE: make someone a DOPE.
+empirical | deceive.genuine | The theory lacked empirical evidence. | EMPIRICAL: based on EXPERIMENTS and observation.
+engender | begin.cause | His kindness engendered loyalty among his staff. | EN-GENDER: GENerate, give birth to.
+entitled | arrogant.arrogant | The entitled celebrity demanded free meals everywhere. | ENTITLED: thinks they have a TITLE to everything.
+pertinacious | change.stubborn | The pertinacious reporter called the senator every day for a month. | PERTINACIOUS: PERsistently TENACIOUS.
+presumptuous | arrogant.arrogant | It was presumptuous of him to book the venue before she said yes. | PRESUMPTUOUS: PRESUMES too much.
+probity | moral.good | The judge was known for her probity and fairness. | PROBITY: like PROBE, it passes every honesty test.
+proliferate | amount.grow | Fast-food chains have proliferated across the country. | PROLIFERATE: PROLIFIC growth.
+specious | deceive.misleading | His specious argument sounded logical but was full of holes. | SPECIOUS: looks SPECIal but is false.
+spurious | deceive.fake | The study's spurious results were later retracted. | SPURIOUS: SPURned by experts as fake.
+subjective | mind.personal | Taste in music is highly subjective. | SUBJECTIVE: depends on the SUBJECT (person), not facts.
+subvert | support.undermine | Rebels tried to subvert the government. | SUB-VERT: turn (vert) from below (sub).
+timorous | shy.shy | The timorous puppy hid under the bed during the storm. | TIMOROUS: TIMID and full of fear.
+tortuous | clear.complex | The tortuous mountain road had dozens of hairpin turns. | TORTUOUS: twisty (vs TORTUROUS = painful).
+tractable | change.malleable | The tractable horse was easy to train. | TRACTABLE: TRACTOR-able, easily pulled and guided.
+transient | time.brief | Her happiness proved transient. | TRANSIENT: in TRANSIT, passing through.
+ubiquitous | amount.everywhere | Smartphones have become ubiquitous. | UBIQUITOUS: you see it "you-bi-quickly" everywhere.
+underscore | support.emphasize | The accident underscored the need for safety rules. | UNDERSCORE: UNDERLINE to emphasize.
+venal | moral.corrupt | The venal official accepted bribes from developers. | VENAL: for sale (vs VENIAL = minor sin).
+venerate | judge.worship | Many cultures venerate their ancestors. | VENERATE: VENERable figures are deeply respected.
+
+## Group 7
+appease | calm.soothe | The government tried to appease protesters with small concessions. | APPEASE: bring PEACE.
+arbitrary | odd.random | The teacher's grading seemed arbitrary. | ARBITRARY: like an ARBITER who flips a coin.
+archaic | time.old | The law used archaic language from the 1700s. | ARCHAIC: as old as ARCHAEOLOGY.
+clamorous | noise.loud | The clamorous crowd demanded an encore. | CLAMOROUS: making a CLAMOR (racket).
+dearth | amount.scarce | There is a dearth of qualified nurses in rural areas. | DEARTH: sounds like DEATH, as in nothing left.
+explicable | clear.clear | His strange behavior was explicable once we learned he was ill. | EXPLICABLE: EXPLAIN-able.
+hyperbole | show.exaggerate | Saying "I've told you a million times" is hyperbole. | HYPER-BOLE: HYPER (over) the top.
+immutable | time.lasting | The laws of physics are immutable. | IM-MUTABLE: cannot MUTATE (change).
+indefatigable | change.persistent | The indefatigable nurse worked double shifts all week. | IN-DE-FATIG-able: can't be FATIGUED.
+indolent | energy.lazy | The indolent cat slept all day in the sun. | INDOLENT: IN-DOLE-ent, lives on the dole, lazy.
+insular | mind.narrow | The insular village distrusted outsiders. | INSULAR: like an ISLAND (insula), cut off.
+intransigent | change.stubborn | Both sides remained intransigent, so talks collapsed. | IN-TRANSIGENT: won't TRANSact or compromise.
+intrepid | brave.brave | The intrepid explorer crossed Antarctica alone. | IN-TREPID: not TREPIDatious (fearful).
+irreverent | humor.funny | The comedian's irreverent jokes about the royal family drew complaints. | IR-REVERENT: not REVERENT (respectful).
+loathe | hostile.hatred | She loathes cold weather. | LOATHE: LOATHSOME things you hate.
+malign | judge.slander | The tabloids maligned the actress with false rumors. | MAL (bad) + IGN: speak badly of.
+malleable | change.malleable | Gold is a malleable metal. | MALLEABLE: can be shaped with a MALLET.
+neophyte | naive.novice | As a neophyte in politics, she made many mistakes. | NEO (new) + PHYTE (plant): a new sprout.
+plastic | change.malleable | Children's brains are remarkably plastic. | PLASTIC: moldable, like plastic.
+platitude | dull.cliche | "Everything happens for a reason" is a common platitude. | PLATITUDE: a FLAT (plat) remark.
+prescient | future.predict | Her prescient warnings about the pandemic were ignored. | PRE-SCIENT: knows (sci) before (pre).
+pristine | time.new | The beach was pristine, untouched by tourists. | PRISTINE: PRIS-TINE, shiny as a brand-new TIN.
+reproach | judge.criticize | She reproached him for forgetting her birthday. | REPROACH: APPROACH someone to scold them.
+robust | energy.strong | The robust economy weathered the crisis. | ROBUST: ROBUSTA coffee beans, the hardy kind.
+salubrious | harm.healthy | The mountain air is salubrious. | SALUBRIOUS: SALUTE to your health.
+sanction | tolerate.allow | The UN sanctioned the peacekeeping mission. | SANCTION: has two opposite meanings: approve OR penalize.
+sedulous | care.careful | The sedulous student never missed a homework assignment. | SEDULOUS: SEDentary at the desk, working diligently.
+soporific | energy.sleepy | The professor's soporific voice put the class to sleep. | SOPORIFIC: SOAP opera so dull it's sleep-inducing.
+stern | rude.stern | The stern principal never smiled. | STERN: the STERN (back) of a ship is hard and unyielding.
+tendentious | conflict.controversial | The tendentious article clearly favored one party. | TENDENTIOUS: has a TENDENCY (bias).
+
+## Group 8
+accentuate | support.emphasize | The black dress accentuated her red hair. | ACCENTuate: put an ACCENT on it.
+conjectural | doubt.tentative | His theory is conjectural, based on limited evidence. | CONJECTURAL: based on CONJECTURE (guesses).
+convivial | friendly.friendly | The convivial atmosphere of the pub made everyone feel at home. | CON-VIV: living (viv) together merrily.
+decadent | moral.evil | The decadent party featured gold-flecked champagne. | DECADENT: DECAYING morals through indulgence.
+egregious | reveal.obvious | The referee made an egregious error. | EGREGIOUS: "e-GREG-ious": stands out from the flock (greg), in a bad way.
+evanescent | time.brief | The evanescent rainbow faded within minutes. | EVANESCENT: EVAporates, vanishes quickly.
+flamboyant | show.showy | The flamboyant singer wore a sequined cape. | FLAMBOYANT: FLAMING bright and showy.
+forestall | obstruct.prevent | The company cut prices to forestall competition. | FORE-STALL: STALL something before (fore) it happens.
+gainsay | reject.deny | No one could gainsay the evidence. | GAIN-SAY: SAY against (gain = against).
+galvanize | energy.invigorate | The speech galvanized the volunteers into action. | GALVANIZE: shock into action, like Galvani's electrified frog.
+indiscriminate | care.careless | The indiscriminate bombing killed many civilians. | IN-DISCRIMINATE: doesn't DISCRIMINATE (choose carefully).
+innocuous | harm.harmless | The question seemed innocuous but caused an argument. | IN-NOCUOUS: not NOXIOUS (harmful).
+momentary | time.brief | There was a momentary pause before the applause. | MOMENTARY: lasts a MOMENT.
+mundane | dull.boring | She escaped mundane chores by reading novels. | MUNDANE: as ordinary as a Monday.
+nettlesome | anger.annoying | The nettlesome noise from next door kept me awake. | NETTLESOME: stings like a NETTLE plant.
+nullify | reject.cancel | The court nullified the contract. | NULLIFY: make NULL.
+obviate | obstruct.prevent | The new software obviates the need for manual data entry. | OBVIATE: make a step OBVIOUSLY unnecessary.
+omnipresent | amount.everywhere | Security cameras are omnipresent in the city. | OMNI (all) + PRESENT: present everywhere.
+oust | reject.expel | The board ousted the CEO after the scandal. | OUST: OUT you go.
+palpable | reveal.obvious | The tension in the room was palpable. | PALPABLE: you could PALPATE (touch) it.
+perfidy | deceive.betray | The general's perfidy cost the army the battle. | PERFIDY: PER (against) + FIDELITY (faith).
+profuse | amount.abundant | She offered profuse apologies. | PROFUSE: PROFUSELY flowing, gushing.
+pugnacious | anger.combative | The pugnacious boxer started fights outside the ring. | PUGNACIOUS: a PUG dog that wants to fight; "pugn" = fist.
+sagacious | skill.wise | The sagacious elder gave wise advice. | SAGACIOUS: a SAGE.
+sanguine | mood.optimistic | She remained sanguine despite the setbacks. | SANGUINE: rosy cheeks (sanguis = blood), cheerful.
+scant | amount.scarce | The report paid scant attention to safety. | SCANT: SCANTY, barely enough.
+skullduggery | deceive.deceive | The election was full of skullduggery. | SKULL-DUGGERY: digging up skulls at night, shady business.
+trivial | importance.trivial | Don't worry about such trivial matters. | TRIVIAL: like TRIVIA, small facts.
+utilitarian | show.plain | The office had a utilitarian design with no decorations. | UTILITARIAN: all about UTILITY.
+vapid | dull.boring | The vapid conversation was all about celebrity gossip. | VAPID: like VAPOR, empty and insubstantial.
