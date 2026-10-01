@@ -18,6 +18,8 @@ Open `docs/index.html` in a browser. No install and no server needed.
   True synonyms are never used as wrong answers, so every question has exactly one right answer.
   After a miss, the app shows which word the meaning you picked belongs to, and the word comes
   back a few cards later.
+- **Quiz all groups**: 20 mixed questions drawn at random from all 959 words, with an
+  "Another 20" button at the end.
 - **Spaced repetition** (Leitner boxes): words you get right move out to 1 → 3 → 7 → 14 → 30
   days. A miss sends a word back to tomorrow. *Review due words* on the home screen collects
   everything that's due; *Trouble words* collects your most-missed words.
@@ -31,6 +33,7 @@ Open `docs/index.html` in a browser. No install and no server needed.
 ```
 (source PDF not committed; parse it with scripts/parse_pdf.py)
 data/words.json            parsed from the PDF (scripts/parse_pdf.py)
+data/groups.json           three signature words used as each group's label
 data/fixes.json            corrections for 4 rows where the PDF repeats the previous definition
 data/extras/*.txt          per word: meaning-family tags | example sentence | memory hook
 scripts/build.py           merges the above and precomputes quiz traps -> docs/words.js

@@ -6,6 +6,7 @@
   const GROUPS = [...new Set(WORDS.map((w) => w.group))].sort((a, b) => a - b);
   const STORE_KEY = 'grevocab.progress.v1';
   const SESSION_CAP = 40;
+  const ALL_QUIZ_SIZE = 20;
   const app = document.getElementById('app');
 
   // ---------- persistence ----------
@@ -59,6 +60,14 @@
 
   const groupWords = (g) => WORDS.filter((w) => w.group === g);
 
+  // Three signature words per group (data/groups.json), easier to recall than a number.
+  const GROUP_LABELS = window.GRE_GROUP_LABELS;
+
+  function startAllGroupsQuiz() {
+    startSession(SRS.shuffle(WORDS).slice(0, ALL_QUIZ_SIZE),
+      { kind: 'quiz', dir: 'mix', title: `All groups · ${ALL_QUIZ_SIZE} random words`, again: 'all' });
+  }
+
   // ---------- routing ----------
 
   let session = null;
@@ -103,6 +112,8 @@
       <section class="actions">
         <button class="btn primary" data-action="review" ${due ? '' : 'disabled'}>
           Review due words <span class="pill">${due}</span></button>
+        <button class="btn primary" data-action="all">
+          Quiz all groups <span class="pill">${ALL_QUIZ_SIZE} questions</span></button>
         <button class="btn" data-action="trouble" ${trouble ? '' : 'disabled'}>
           Trouble words <span class="pill">${trouble}</span></button>
       </section>
@@ -113,7 +124,7 @@
           const gc = counts(list);
           const gdue = list.filter((w) => SRS.isDue(progress, w.word, now)).length;
           return `<a class="group-tile ${gc.new === list.length ? 'untouched' : ''}" href="#/group/${g}">
-            <span class="g-num">${g}</span>
+            <span class="g-head"><span class="g-num">${g}</span><span class="g-label">${esc(GROUP_LABELS[g])}</span></span>
             ${barHtml(gc, list.length)}
             <span class="g-meta">${gc.mastered}/${list.length}${gdue ? ` · <b>${gdue} due</b>` : ''}</span>
           </a>`;
@@ -134,6 +145,7 @@
         <a class="link back" href="#/">← All groups</a>
         <h1>Group ${g}</h1>
       </header>
+      <p class="g-subtitle">${esc(GROUP_LABELS[g])}</p>
       <p class="muted">${c.mastered} mastered · ${c.learning} learning · ${c.new} new</p>
       ${barHtml(c, list.length)}
       <section class="actions grid2">
@@ -266,6 +278,7 @@
       </section>
       <section class="actions grid2">
         ${missed.length ? `<button class="btn primary" data-action="retry">Quiz the missed words</button>` : ''}
+        ${session.again === 'all' ? `<button class="btn primary" data-action="all">Another ${ALL_QUIZ_SIZE} questions</button>` : ''}
         <a class="btn" href="#/">Home</a>
       </section>
       ${missed.length ? `<h2>Missed</h2><section class="wordlist">${missed.map((w) => `
@@ -302,13 +315,15 @@
     const g = +el.dataset.group;
     if (a === 'review') {
       startSession(SRS.dueWords(progress, WORDS, Date.now()).slice(0, SESSION_CAP), { kind: 'quiz', dir: 'mix', title: 'Review: due words' });
+    } else if (a === 'all') {
+      startAllGroupsQuiz();
     } else if (a === 'trouble') {
       startSession(SRS.troubleWords(progress, WORDS).slice(0, SESSION_CAP), { kind: 'quiz', dir: 'w2m', title: 'Trouble words' });
     } else if (a === 'cards') {
-      startSession(groupWords(g), { kind: 'card', title: `Group ${g} · flashcards` });
+      startSession(groupWords(g), { kind: 'card', title: `Group ${g} (${GROUP_LABELS[g]}) · flashcards` });
     } else if (a === 'quiz') {
       const names = { w2m: 'word → meaning', m2w: 'meaning → word', mix: 'mixed' };
-      startSession(groupWords(g), { kind: 'quiz', dir: el.dataset.dir, title: `Group ${g} · ${names[el.dataset.dir]}` });
+      startSession(groupWords(g), { kind: 'quiz', dir: el.dataset.dir, title: `Group ${g} (${GROUP_LABELS[g]}) · ${names[el.dataset.dir]}` });
     } else if (a === 'flip') {
       view.flipped = true;
       renderCard();

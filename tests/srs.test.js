@@ -94,3 +94,13 @@ test('session re-queues misses but grades only the first answer', () => {
   assert.deepEqual(s.missed, [1]);
   assert.deepEqual(SRS.sessionProgress(s), { done: 6, total: 6 });
 });
+
+test('every group has a three-word label from its own words', () => {
+  const groups = [...new Set(WORDS.map((w) => w.group))];
+  assert.equal(groups.length, 32);
+  for (const g of groups) {
+    const names = window.GRE_GROUP_LABELS[g].split(' · ');
+    assert.equal(names.length, 3, `group ${g}`);
+    for (const n of names) assert.equal(byWord[n].group, g, `${n} not in group ${g}`);
+  }
+});

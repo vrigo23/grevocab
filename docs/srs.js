@@ -118,6 +118,7 @@
       kind: opts.kind,
       dir: opts.dir || 'w2m',
       title: opts.title || '',
+      again: opts.again || null,
       queue: ids.slice(),
       pos: 0,
       total: ids.length,
