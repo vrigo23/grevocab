@@ -1,0 +1,330 @@
+# Synonym sets drawn only from words in the list. One set per line.
+# Words in a set share a part of speech and can replace each other in a sentence
+# (what a GRE Sentence Equivalence pair needs). A word may appear in several
+# sets when it has several senses. Synonyms are never used as wrong quiz options.
+
+# talking
+loquacious, garrulous, voluble
+verbose, prolix
+taciturn, reticent, laconic
+terse, laconic, pithy
+equivocate, prevaricate
+eloquent, articulate
+contend, aver
+
+# praise and respect
+laudable, meritorious, estimable
+acclaim, approbation
+canonize, deify, venerate
+deference, obeisance
+apogee, zenith, crescendo
+
+# criticism and insult
+castigate, chastise, upbraid, berate, lambaste, excoriate, reproach, admonish
+censure, decry, denounce, excoriate
+diatribe, tirade, harangue
+calumny, slander, aspersion
+malign, slander
+deride, lampoon
+affront, slight
+
+# calming
+placate, appease, mollify, pacify
+alleviate, assuage, mitigate
+ameliorate, alleviate
+mitigate, temper
+placid, tranquil, serene
+placid, imperturbable
+equanimity, poise
+phlegmatic, stolid, stoic
+
+# anger and hostility
+irascible, fractious, petulant
+pugnacious, belligerent, truculent
+vexation, chagrin
+irksome, nettlesome
+antipathy, animosity, animus, enmity
+antipathy, aversion
+loathe, abhor
+repugnant, odious
+contempt, scorn, disdain
+caustic, mordant, scathing, astringent
+acrimonious, virulent
+malevolent, malign
+
+# harm and health
+deleterious, noxious, pernicious, inimical
+benign, innocuous
+salubrious, salutary
+
+# care
+meticulous, scrupulous, punctilious, painstaking, fastidious
+fastidious, finicky
+exhaustive, thorough
+sedulous, industrious
+wary, chary, circumspect
+prudent, judicious
+astute, perspicacious, canny, sagacious
+cursory, perfunctory
+negligent, lax
+desultory, haphazard
+nonchalant, blithe, cavalier
+impetuous, precipitate, precipitous
+stringent, exacting
+
+# change and stubbornness
+capricious, fickle, mercurial, whimsical
+volatile, mercurial, erratic
+vacillate, falter
+malleable, plastic, pliant, supple
+tractable, amenable, pliant
+obstinate, intransigent, obdurate, headstrong, pertinacious
+dogmatic, doctrinaire
+dogged, pertinacious
+resolute, steadfast, stalwart
+entrenched, ingrained, inveterate
+
+# clarity
+lucid, limpid, pellucid
+arcane, recondite, esoteric, abstruse, obscure
+opaque, obscure
+enigmatic, inscrutable
+convoluted, byzantine, tortuous
+baroque, florid
+sinuous, tortuous
+metaphorical, figurative
+obfuscate, obscure
+
+# conflict and agreement
+contentious, polemical
+incendiary, provocative
+tendentious, partial
+collude, conspire
+coalesce, amalgamate
+
+# deception
+duplicitous, disingenuous
+chicanery, skullduggery
+wily, cunning
+dupe, swindle
+dupe, beguile
+feign, dissemble
+spurious, bogus, sham
+specious, fallacious
+feint, ploy
+
+# truth and reality
+tangible, palpable
+corporeal, tangible
+
+# difficulty and danger
+arduous, onerous
+precarious, perilous
+predicament, quandary
+feasible, viable
+quixotic, fanciful
+
+# doubt and certainty
+dubious, incredulous
+dubious, suspect
+qualm, apprehension
+incontrovertible, conclusive, ironclad
+
+# dull and exciting
+banal, hackneyed
+humdrum, mundane, prosaic, pedestrian
+tedious, monotonous, humdrum
+insipid, vapid
+vapid, vacuous
+enthrall, enchant, beguile
+
+# energy
+zealous, fervent, fervid, ardent
+fervor, alacrity
+lethargic, sluggish, languid
+soporific, somnolent
+vivacious, ebullient
+verve, vitality
+invigorate, galvanize
+
+# mood
+elated, euphoric
+ebullient, buoyant, jocund
+sanguine, buoyant
+morose, glum, lugubrious
+
+# friendliness
+amicable, cordial, congenial
+convivial, gregarious
+
+# future and luck
+prescient, prophetic
+auspicious, propitious
+repercussion, ramification
+fortuitous, serendipitous, providential
+
+# generosity and greed
+munificent, beneficent, magnanimous
+benevolent, beneficent, altruistic
+avaricious, rapacious, acquisitive
+mercenary, venal
+parsimonious, miserly, penurious
+prodigal, profligate, extravagant, spendthrift
+lavish, extravagant
+austere, ascetic, spartan
+
+# preferences
+proclivity, propensity, penchant, predilection, affinity
+
+# importance and relevance
+trivial, trifling, nominal
+marginalize, relegate
+pertinent, apropos
+apt, felicitous
+extraneous, tangential, peripheral, incidental
+superfluous, extraneous
+
+# outlook
+insular, parochial, provincial, myopic
+urbane, sophisticated, cosmopolitan
+disinterested, equitable
+
+# morality
+base, sordid
+turpitude, depravity
+reprobate, miscreant
+pious, sanctimonious
+
+# inexperience
+ingenuous, artless, naive, callow
+naive, gullible
+nascent, inchoate, fledgling
+rudimentary, elementary
+
+# noise
+clamorous, vociferous
+cacophonous, clamorous
+obstreperous, boisterous
+
+# obstruction and restraint
+impede, hamper, hinder, inhibit
+forestall, preclude
+curb, bridle
+circumscribe, curtail
+
+# strangeness and norms
+anomalous, aberrant
+eccentric, quirky, idiosyncratic, peculiar
+peculiar, outlandish
+heterodox, iconoclastic
+paragon, archetype
+
+# persuasion and force
+cogent, compelling
+coercion, duress
+cajole, wheedle, inveigle
+supplicate, entreat
+
+# rejecting and giving up
+abjure, renounce, recant
+forsake, relinquish, renounce
+repudiate, spurn
+eschew, abstain, forbear
+evade, skirt, shirk
+refute, debunk, gainsay
+nullify, abrogate, quash
+nullify, neutralize
+oust, depose
+banish, exorcize
+flout, contravene
+
+# replacing and surpassing
+supplant, supersede
+eclipse, outstrip, transcend
+
+# revealing and hiding
+patent, manifest, overt, palpable
+flagrant, egregious
+clandestine, covert, furtive, surreptitious
+divulge, betray
+elicit, evoke
+implicit, tacit
+
+# manners
+impertinent, impudent, insolent
+brazen, impudent
+effrontery, temerity
+boorish, churlish
+unseemly, indecorous
+decorum, propriety
+austere, stern
+
+# similarity and difference
+fungible, interchangeable
+disparate, heterogeneous
+emulate, mimic
+hodgepodge, pastiche
+
+# showiness and emotion
+ostentatious, flamboyant
+mawkish, sentimental
+
+# shyness
+diffident, retiring, coy
+diffident, timorous
+timorous, skittish
+
+# skill and intelligence
+deft, adroit, adept, proficient
+sound, rational
+
+# spreading
+disseminate, propagate
+disperse, diffuse
+
+# submission
+obsequious, subservient
+fawn, grovel
+capitulate, yield, relent
+acquiesce, comply
+
+# support and weakening
+bolster, buttress
+corroborate, substantiate
+underscore, accentuate
+undermine, subvert, undercut
+vitiate, impair, compromise
+adulterate, vitiate
+
+# thinking
+ruminate, cogitate, deliberate
+improvise, extemporize
+
+# time
+ephemeral, evanescent, transient, transitory, momentary
+sporadic, intermittent
+archaic, obsolete
+pristine, immaculate
+pristine, inviolate
+
+# tolerating
+brook, abide
+countenance, condone, sanction
+
+# blame
+exculpate, exonerate
+
+# bravery
+intrepid, plucky, mettlesome
+fortitude, valor
+
+# confusion
+befuddled, flummoxed, nonplussed
+
+# amounts
+copious, profuse
+ubiquitous, omnipresent, pervasive
+burgeon, proliferate
+scant, sparse
+diminutive, minute
+abate, wane, subside, dwindling

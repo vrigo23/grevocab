@@ -39,9 +39,20 @@
     return `<ol class="senses">${w.senses.map((s) => `<li>${esc(s)}</li>`).join('')}</ol>`;
   }
 
+  // Synonyms that are also in the list, each tagged with its group number.
+  function synonymsHtml(w) {
+    if (!w.synonyms.length) return '';
+    const chips = w.synonyms.map((name) => {
+      const g = BY_WORD[name].group;
+      return `<span class="syn" title="Group ${g}">${esc(name)}<small>${g}</small></span>`;
+    }).join('');
+    return `<p class="synonyms"><span class="syn-label">Synonyms in your list</span>${chips}</p>`;
+  }
+
   function detailsHtml(w) {
     return `
       ${sensesHtml(w)}
+      ${synonymsHtml(w)}
       <p class="example">“${highlight(w.example, w.word)}”</p>
       <p class="hook"><span class="hook-label">Memory hook</span>${esc(w.hook)}</p>`;
   }

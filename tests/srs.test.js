@@ -104,3 +104,17 @@ test('every group has a three-word label from its own words', () => {
     for (const n of names) assert.equal(byWord[n].group, g, `${n} not in group ${g}`);
   }
 });
+
+test('synonyms come from the list, are symmetric, and are never wrong options', () => {
+  let withSyn = 0;
+  for (const w of WORDS) {
+    if (w.synonyms.length) withSyn += 1;
+    for (const s of w.synonyms) {
+      assert.ok(byWord[s], `${w.word}: ${s} is not in the list`);
+      assert.ok(byWord[s].synonyms.includes(w.word), `${w.word} <-> ${s} not symmetric`);
+      assert.ok(!w.traps.includes(byWord[s].id), `${w.word}: synonym ${s} used as a trap`);
+    }
+  }
+  assert.ok(withSyn > 500);
+  assert.deepEqual(byWord.loquacious.synonyms.sort(), ['garrulous', 'voluble']);
+});

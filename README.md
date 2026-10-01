@@ -23,7 +23,8 @@ Open `docs/index.html` in a browser. No install and no server needed.
 - **Spaced repetition** (Leitner boxes): words you get right move out to 1 → 3 → 7 → 14 → 30
   days. A miss sends a word back to tomorrow. *Review due words* on the home screen collects
   everything that's due; *Trouble words* collects your most-missed words.
-- Every word has an **example sentence** and a **memory hook**.
+- Every word has an **example sentence** and a **memory hook**, plus its **synonyms from the
+  same list** (with group numbers) wherever the meaning is shown, which links words across groups.
 - Progress is saved in your browser. Use **Progress & sync** to copy a code from one device
   and paste it on another.
 - Keyboard: `space` flips, `1`/`2` grade cards, `1`–`5` answer, `enter` goes to the next question, `esc` ends the session.
@@ -33,6 +34,7 @@ Open `docs/index.html` in a browser. No install and no server needed.
 ```
 (source PDF not committed; parse it with scripts/parse_pdf.py)
 data/words.json            parsed from the PDF (scripts/parse_pdf.py)
+data/synonyms.txt          hand-curated synonym sets, using only words from the list
 data/groups.json           three signature words used as each group's label
 data/fixes.json            corrections for 4 rows where the PDF repeats the previous definition
 data/extras/*.txt          per word: meaning-family tags | example sentence | memory hook

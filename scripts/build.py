@@ -97,7 +97,7 @@ def looks_alike(a, b):
     return SequenceMatcher(None, a, b).ratio() >= 0.75
 
 
-def add_traps(words):
+def add_traps(words, synonyms):
     """Rank candidate wrong answers for each word; store the best ids as 'traps'."""
     toks = [content_tokens(w["senses"]) for w in words]
     df = Counter(t for ts in toks for t in ts)
@@ -108,7 +108,7 @@ def add_traps(words):
         for o, ot in zip(words, toks):
             if o is w or o["word"] == w["word"]:
                 continue
-            if clusters & {cluster_of(t) for t in o["tags"]}:
+            if clusters & {cluster_of(t) for t in o["tags"]} or o["word"] in synonyms.get(w["word"], ()):
                 continue  # synonym: would make two options correct
             if any(df[t] <= 12 for t in wt & ot):
                 continue  # definitions share a distinctive word; too ambiguous
@@ -123,7 +123,24 @@ def add_traps(words):
                 scored.append((-score, o["id"]))
         scored.sort()
         w["traps"] = [i for _, i in scored[:14]]
-        w["syn"] = [o["id"] for o in words if o is not w and clusters & {cluster_of(t) for t in o["tags"]}]
+        w["syn"] = [o["id"] for o in words if o is not w and (clusters & {cluster_of(t) for t in o["tags"]} or o["word"] in synonyms.get(w["word"], ()))]
+
+
+def load_synonyms(known):
+    """data/synonyms.txt: one comma-separated set per line -> {word: set(synonyms)}."""
+    syn = {}
+    path = ROOT / "data" / "synonyms.txt"
+    for n, line in enumerate(path.read_text().splitlines(), 1):
+        line = line.split("#")[0].strip()
+        if not line:
+            continue
+        members = [m.strip() for m in line.split(",") if m.strip()]
+        unknown = [m for m in members if m not in known]
+        if unknown or len(set(members)) != len(members) or len(members) < 2:
+            sys.exit(f"synonyms.txt:{n}: bad set {members} (unknown: {unknown})")
+        for m in members:
+            syn.setdefault(m, set()).update(x for x in members if x != m)
+    return syn
 
 
 def load_extras():
@@ -166,7 +183,12 @@ def main():
     if missing or unused:
         sys.exit(f"missing extras: {missing}\nextras for unknown words: {unused}")
 
-    add_traps(out)
+    synonyms = load_synonyms({w["word"] for w in out})
+    order = {w["word"]: w["id"] for w in out}
+    for w in out:
+        w["synonyms"] = sorted(synonyms.get(w["word"], ()), key=order.get)
+    add_traps(out, synonyms)
+    print(f"{sum(1 for w in out if w['synonyms'])} words have synonyms in the list")
     groups = {k: v for k, v in json.loads((ROOT / "data" / "groups.json").read_text()).items() if not k.startswith("_")}
     for g in {w["group"] for w in out}:
         for name in groups[str(g)].split(" · "):
