@@ -53,9 +53,12 @@ npm test                                              # run unit tests
 npm run serve                                         # optional local server on :8080
 ```
 
-## Hosting on GitHub Pages
+## Hosting
 
-Settings → Pages → *Deploy from a branch* → pick the branch and the `/docs` folder.
+The site is static and lives in `docs/` (`docs/words.js` is committed, so no build step is needed).
+
+- **Vercel**: import the repo; `vercel.json` sets the output directory to `docs` and skips the build.
+- **GitHub Pages**: Settings → Pages → *Deploy from a branch* → pick the branch and the `/docs` folder.
 
 ## Roadmap
 
